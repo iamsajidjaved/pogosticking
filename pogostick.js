@@ -44,8 +44,8 @@ puppeteer.use(
   })
 );
 
-// Ensure screenshots folder exists
-const screenshotsDir = path.resolve(process.cwd(), 'screenshots');
+// Ensure screenshots directory exists
+const screenshotsDir = path.resolve('./screenshots');
 if (!fs.existsSync(screenshotsDir)) {
   fs.mkdirSync(screenshotsDir);
 }
@@ -170,14 +170,13 @@ async function runVisit(browser, visitNumber) {
       }
     }
 
-    // Take full page screenshot of SERP after loading
+    // Take full-page screenshot of the SERP here:
     const screenshotPath = path.join(screenshotsDir, `serp_visit_${visitNumber}.png`);
     await page.screenshot({ path: screenshotPath, fullPage: true });
     console.log(chalk.green(`📸 Saved Google SERP screenshot: ${screenshotPath}`));
 
-    // Only process first SERP page (no pagination)
-    const pageCount = 1;
-    console.log(chalk.cyan(`📄 SERP page #${pageCount}`));
+    // Only process the first page, do not paginate
+    console.log(chalk.cyan(`📄 SERP page #1`));
     await page.waitForSelector('span.V9tjod a', { timeout: 10000 }).catch(() => { });
 
     let links = [];
