@@ -1,7 +1,28 @@
+import fs from 'fs';
+import path from 'path';
 import puppeteer from 'puppeteer-extra';
 import RecaptchaPlugin from 'puppeteer-extra-plugin-recaptcha';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
+import UserAgent from 'user-agents';
 import axios from 'axios';
 import chalk from 'chalk';
+
+puppeteer.use(StealthPlugin());
+
+// ======= Log to logs.txt =======
+const logStream = fs.createWriteStream('logs.txt', { flags: 'a' });
+const origLog = console.log;
+const origErr = console.error;
+
+console.log = (...args) => {
+  origLog(...args);
+  logStream.write(args.map(arg => (typeof arg === 'string' ? arg : JSON.stringify(arg))).join(' ') + '\n');
+};
+console.error = (...args) => {
+  origErr(...args);
+  logStream.write(args.map(arg => (typeof arg === 'string' ? arg : JSON.stringify(arg))).join(' ') + '\n');
+};
+// =================================
 
 const KEYWORD = '8xbet';
 const PROXY_API = 'https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=b4b85546eaddfd86d54506c91d69e60d';
@@ -22,6 +43,12 @@ puppeteer.use(
     throwOnError: false,
   })
 );
+
+// Ensure screenshots folder exists
+const screenshotsDir = path.resolve(process.cwd(), 'screenshots');
+if (!fs.existsSync(screenshotsDir)) {
+  fs.mkdirSync(screenshotsDir);
+}
 
 async function fetchProxyGeoInfo(ip) {
   try {
@@ -53,11 +80,11 @@ async function solveRecaptcha(page) {
     }
 
     await Promise.race([
-      page.waitForSelector('#search', { timeout: 20000 }).catch(() => {}),
+      page.waitForSelector('#search', { timeout: 20000 }).catch(() => { }),
       page.waitForFunction(() => {
         const title = document.title.toLowerCase();
         return !title.includes('sorry') && !title.includes('captcha') && !title.includes('unusual traffic');
-      }, { timeout: 20000 }).catch(() => {}),
+      }, { timeout: 20000 }).catch(() => { }),
       delay(5000)
     ]);
 
@@ -65,7 +92,6 @@ async function solveRecaptcha(page) {
     return true;
   } catch (e) {
     console.log(chalk.red(`❌ CAPTCHA solve error: ${e.message}`));
-    await page.screenshot({ path: `captcha_fail_single_attempt.png` });
     return false;
   }
 }
@@ -102,21 +128,30 @@ async function interactWithPage(page, domain) {
 
 async function runVisit(browser, visitNumber) {
   const page = await browser.newPage();
+
+  const userAgent = new UserAgent({ deviceCategory: 'desktop' });
+  await page.setUserAgent(userAgent.toString());
+
+  const width = 1280 + Math.floor(Math.random() * 300);
+  const height = 720 + Math.floor(Math.random() * 300);
+  await page.setViewport({ width, height, deviceScaleFactor: 1 });
+
+  await page.setExtraHTTPHeaders({ 'Accept-Language': 'vi-VN,vi;q=0.9' });
+  await page.emulateTimezone('Asia/Ho_Chi_Minh');
+
+  await page.evaluateOnNewDocument(() => {
+    Object.defineProperty(navigator, 'language', { get: () => 'vi-VN' });
+    Object.defineProperty(navigator, 'languages', { get: () => ['vi-VN', 'vi'] });
+  });
+
   console.log(chalk.cyanBright(`🌐 Visit #${visitNumber}: Opening Google...`));
 
   try {
     await page.goto('https://www.google.com.vn', { waitUntil: 'networkidle2' });
-  } catch (e) {
-    console.error(chalk.red(`❌ Google load failed: ${e.message}`));
-    await page.close();
-    return false;
-  }
-
-  try {
     await page.type('textarea[name="q"]', KEYWORD, { delay: 100 });
     await Promise.all([
       page.keyboard.press('Enter'),
-      page.waitForNavigation({ waitUntil: 'domcontentloaded' }).catch(() => {}),
+      page.waitForNavigation({ waitUntil: 'domcontentloaded' }).catch(() => { }),
     ]);
 
     const isCaptcha = await page.evaluate(() =>
@@ -127,7 +162,6 @@ async function runVisit(browser, visitNumber) {
 
     if (isCaptcha) {
       console.log(chalk.red(`🚧 CAPTCHA detected.`));
-      // Removed: await page.screenshot({ path: `captcha_visit_${visitNumber}.png` });
       const solved = await solveRecaptcha(page);
       if (!solved) {
         console.log(chalk.red(`❌ CAPTCHA solve failed.`));
@@ -136,77 +170,66 @@ async function runVisit(browser, visitNumber) {
       }
     }
 
-    let pageCount = 0;
-    while (true) {
-      pageCount++;
-      console.log(chalk.cyan(`📄 SERP page #${pageCount}`));
+    // Take full page screenshot of SERP after loading
+    const screenshotPath = path.join(screenshotsDir, `serp_visit_${visitNumber}.png`);
+    await page.screenshot({ path: screenshotPath, fullPage: true });
+    console.log(chalk.green(`📸 Saved Google SERP screenshot: ${screenshotPath}`));
 
-      await page.waitForSelector('span.V9tjod a', { timeout: 10000 }).catch(() => {});
+    // Only process first SERP page (no pagination)
+    const pageCount = 1;
+    console.log(chalk.cyan(`📄 SERP page #${pageCount}`));
+    await page.waitForSelector('span.V9tjod a', { timeout: 10000 }).catch(() => { });
 
-      let links = [];
+    let links = [];
+    try {
+      links = await page.$$eval('span.V9tjod a', anchors =>
+        anchors.map(a => a.href).filter(href => href && !href.includes('google.com'))
+      );
+    } catch (e) {
+      console.log(chalk.red(`⚠️ Failed to extract SERP links: ${e.message}`));
+      await page.close();
+      return true;
+    }
+
+    console.log(chalk.magenta(`🔗 Found ${links.length} links.`));
+
+    for (const [i, link] of links.entries()) {
+      const newTab = await browser.newPage();
+      let domain;
       try {
-        links = await page.$$eval('span.V9tjod a', anchors =>
-          anchors.map(a => a.href).filter(href => href && !href.includes('google.com'))
-        );
+        domain = new URL(link).hostname.replace(/^www\./, '');
       } catch (e) {
-        console.log(chalk.red(`⚠️ Failed to extract SERP links: ${e.message}`));
-        await page.close();
-        return true;
-      }
-
-      console.log(chalk.magenta(`🔗 Found ${links.length} links.`));
-
-      for (const [i, link] of links.entries()) {
-        const newTab = await browser.newPage();
-        let domain;
-        try {
-          domain = new URL(link).hostname.replace(/^www\./, '');
-        } catch (e) {
-          console.log(chalk.red(`  ❌ Invalid URL: ${link}`));
-          await newTab.close();
-          continue;
-        }
-
-        console.log(chalk.gray(`  ➤ Opening [${i + 1}/${links.length}]: ${link}`));
-        try {
-          await newTab.goto(link, { waitUntil: 'domcontentloaded', timeout: 30000 });
-        } catch (e) {
-          console.log(chalk.red(`  ⚠️ Failed to load: ${link}`));
-          await newTab.close();
-          continue;
-        }
-
-        if (INTERACTIVE_DOMAINS.includes(domain) || domain.includes('8xbet')) {
-          console.log(chalk.green(`  🟢 Interactive domain matched: ${domain}`));
-          await interactWithPage(newTab, domain);
-        } else {
-          console.log(chalk.yellow(`  🕒 Non-target site, closing after short wait.`));
-          await delay(2000 + Math.floor(Math.random() * 1000));
-        }
-
+        console.log(chalk.red(`  ❌ Invalid URL: ${link}`));
         await newTab.close();
-        console.log(chalk.gray(`  ✖️ Closed tab: ${link}`));
+        continue;
       }
 
-      const hasNext = await page.$('a#pnnext');
-      if (!hasNext) {
-        console.log(chalk.green(`✅ No more SERP pages.`));
-        break;
+      console.log(chalk.gray(`  ➤ Opening [${i + 1}/${links.length}]: ${link}`));
+      try {
+        await newTab.goto(link, { waitUntil: 'domcontentloaded', timeout: 30000 });
+      } catch (e) {
+        console.log(chalk.red(`  ⚠️ Failed to load: ${link}`));
+        await newTab.close();
+        continue;
       }
 
-      console.log(chalk.blue(`➡️ Going to next page...`));
-      await Promise.all([
-        page.click('a#pnnext'),
-        page.waitForNavigation({ waitUntil: 'domcontentloaded' }).catch(() => {}),
-      ]);
-      await delay(2000);
+      if (INTERACTIVE_DOMAINS.includes(domain)) {
+        console.log(chalk.green(`  🟢 Interactive domain matched: ${domain}`));
+        await interactWithPage(newTab, domain);
+      } else {
+        console.log(chalk.yellow(`  🕒 Non-target site, closing after short wait.`));
+        await delay(2000 + Math.floor(Math.random() * 1000));
+      }
+
+      await newTab.close();
+      console.log(chalk.gray(`  ✖️ Closed tab: ${link}`));
     }
 
     await page.close();
     return true;
   } catch (err) {
     console.log(chalk.red(`💥 Error in runVisit: ${err.message}`));
-    try { await page.close(); } catch {}
+    try { await page.close(); } catch { }
     return false;
   }
 }
@@ -248,7 +271,7 @@ const main = async () => {
     }
 
     const browser = await puppeteer.launch({
-      headless: false,
+      headless: true,
       args: [`--proxy-server=${proxyHost}:${proxyPort}`],
     });
 
@@ -259,7 +282,7 @@ const main = async () => {
           if (page) {
             await page.authenticate({ username: proxyUsername, password: proxyPassword });
           }
-        } catch {}
+        } catch { }
       });
     }
 
