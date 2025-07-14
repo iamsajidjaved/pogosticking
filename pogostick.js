@@ -52,7 +52,6 @@ async function solveRecaptcha(page) {
       return false;
     }
 
-    // ✅ MINIMAL FIX: wait flexibly for page to return to normal
     await Promise.race([
       page.waitForSelector('#search', { timeout: 20000 }).catch(() => {}),
       page.waitForFunction(() => {
@@ -128,7 +127,7 @@ async function runVisit(browser, visitNumber) {
 
     if (isCaptcha) {
       console.log(chalk.red(`🚧 CAPTCHA detected.`));
-      await page.screenshot({ path: `captcha_visit_${visitNumber}.png` });
+      // Removed: await page.screenshot({ path: `captcha_visit_${visitNumber}.png` });
       const solved = await solveRecaptcha(page);
       if (!solved) {
         console.log(chalk.red(`❌ CAPTCHA solve failed.`));
@@ -177,8 +176,8 @@ async function runVisit(browser, visitNumber) {
           continue;
         }
 
-        if (INTERACTIVE_DOMAINS.includes(domain)) {
-          console.log(chalk.green(`  🟢 Interactive domain: ${domain}`));
+        if (INTERACTIVE_DOMAINS.includes(domain) || domain.includes('8xbet')) {
+          console.log(chalk.green(`  🟢 Interactive domain matched: ${domain}`));
           await interactWithPage(newTab, domain);
         } else {
           console.log(chalk.yellow(`  🕒 Non-target site, closing after short wait.`));
