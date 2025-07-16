@@ -5355,3 +5355,1496 @@
 [90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet/[39m
 [90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
 [90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.16.152:26956[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_1.png[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.16.111:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_2.png[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 69s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/fan-tan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-danh-bac-trach-nhiem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/du-xuan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/pai-gow-tiles-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/choi-game-kiem-tien-rut-ve-momo-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/deuces-wild-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.96.159:56462[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_3.png[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dai-ly-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tong-quan-ve-cong-nghe-song-bac-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-ca-cuoc-the-thao-truc-tuyen-hoat-dong/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/lam-the-nao-de-rut-tien-thang-cuoc-tu-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.96.9:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_4.png[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 70s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/su-quan-trong-cua-viec-so-sanh-ty-le-nha-cai-tu-nhieu-nha-cai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/fan-tan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.20.147:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_5.png[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 70s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/so-tong-dai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-truc-tuyen-su-pho-bien-cua-slot-machine-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-choi-pachinco/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-video-poker/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-bong-da-de-dang-nhat-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-cach-tao-ra-cac-keo-bong-da-rieng-cho-minh/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/ca-cuoc-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/chinh-sach-bao-mat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.20.147:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_6.png[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 61s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-bi-kip-thang-lon-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/du-xuan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/kiem-doi-diem-thuong-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-slot-lucky7/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crown-and-anchor-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.223.40:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #7: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.18.182:27650[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[31m💥 Visit #1 crashed: Cannot read properties of undefined (reading 'iPhone 8')[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.18.182:27650[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.18.182:27650[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: No element found for selector: textarea[name="q"][39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.18.182:27650[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.101.35:45003[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: No element found for selector: textarea[name="q"][39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.101.35:45003[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: No element found for selector: textarea[name="q"][39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.101.35:45003[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: No element found for selector: textarea[name="q"][39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.101.35:45003[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.101.35:45003[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.101.35:45003[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.110.213:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.110.213:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_1.png[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.196.234:24441[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m💥 Error in runVisit: Protocol error (Page.captureScreenshot): Cannot take screenshot with 0 width.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.196.234:24441[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.196.234:24441[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Emulating: Galaxy Note II
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_1.png[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.196.234:24441[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Emulating: iPhone 12
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.25.116:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Emulating: Galaxy Tab S4
+[96m🌐 Visit #1: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.25.116:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Emulating: iPad (gen 6)
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.25.116:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Emulating: Galaxy Note II landscape
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.25.116:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.25.116:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.25.116:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening [1/10]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 63s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dieu-khoan-dieu-kien-cua-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ban-so-de-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-nam/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-tai-tro-man-city/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blog/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-video-poker/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/deuces-wild-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #3 failed.[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #4: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #4 failed.[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #5: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #3 failed.[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #4: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #4 failed.[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #5: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #5 failed.[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #6: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #6 failed.[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #7: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #7 failed.[39m
+[7m[27m
+[7m===== Starting Visit #8 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #8: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #8 failed.[39m
+[7m[27m
+[7m===== Starting Visit #9 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #9: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #9 failed.[39m
+[7m[27m
+[7m===== Starting Visit #10 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #10: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.135.80:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #3: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #3 failed.[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.29.164:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #4: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #4 failed.[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.29.164:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #5: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #5 failed.[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.29.164:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #6: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.29.164:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Execution context was destroyed, most likely because of a navigation.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.46.55:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: [object Object][39m
+[31m❌ CAPTCHA solve failed.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.46.55:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.46.55:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #3: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.77.230.13:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-ap-dung-ty-le-bong-da-keo-nha-cai-khi-ca-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-2-5-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:14839[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: Waiting for selector `textarea[name="q"], input[name="q"]` failed: Waiting failed: 100ms exceeded[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.15:14839[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 62s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-tai-tro-man-city/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/may-danh-bac-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.223:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"iPhone 12 Pro","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1","viewport":{"width":390,"height":844,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":false}}
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.223:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: [object Object][39m
+[31m❌ CAPTCHA solve failed.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.223:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #2: Opening Google...[39m
+[31m💥 Error in runVisit: Execution context was destroyed, most likely because of a navigation.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.223:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 61s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-nha-cai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-casino-truc-tuyen-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-video-poker/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crazy-4-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/fan-tan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.223:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/so-tong-dai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-ca-cuoc-bong-da-uy-tin/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-nha-cai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tich-keo-nha-cai-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-thao-8xbet-com/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ket-qua-nha-cai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-cach-doc-hieu-va-ap-dung-trong-ca-cuoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/meo-dat-cuoc-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.223:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 65s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-hom-nay/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-choi-bai-tu-sac/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xi-to-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-cham-soc-khach-hang/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-nam/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-hom-nay/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.195.7:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #6: Opening Google...[39m
