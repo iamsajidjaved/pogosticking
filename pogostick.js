@@ -25,7 +25,7 @@ console.error = (...args) => {
 // =================================
 
 const KEYWORD = '8xbet';
-const PROXY_API = 'https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=b4b85546eaddfd86d54506c91d69e60d';
+const PROXY_API = 'https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=251911d53fcc081fcbff56c222917c7c';
 const CAPTCHA_API_KEY = '792e588602955a039923cf4feeff93ad';
 const IP_GEO_API_BASE = 'https://free.freeipapi.com/api/json/';
 const INTERACTIVE_DOMAINS = [
@@ -170,13 +170,10 @@ async function runVisit(browser, visitNumber) {
       }
     }
 
-    // Take full-page screenshot of the SERP here:
     const screenshotPath = path.join(screenshotsDir, `serp_visit_${visitNumber}.png`);
     await page.screenshot({ path: screenshotPath, fullPage: true });
     console.log(chalk.green(`📸 Saved Google SERP screenshot: ${screenshotPath}`));
 
-    // Only process the first page, do not paginate
-    console.log(chalk.cyan(`📄 SERP page #1`));
     await page.waitForSelector('span.V9tjod a', { timeout: 10000 }).catch(() => { });
 
     let links = [];
@@ -215,13 +212,15 @@ async function runVisit(browser, visitNumber) {
       if (INTERACTIVE_DOMAINS.includes(domain)) {
         console.log(chalk.green(`  🟢 Interactive domain matched: ${domain}`));
         await interactWithPage(newTab, domain);
+        await newTab.close();
+        console.log(chalk.gray(`  ✖️ Closed interactive tab: ${link}`));
+        break; // Exit loop after interaction
       } else {
         console.log(chalk.yellow(`  🕒 Non-target site, closing after short wait.`));
         await delay(2000 + Math.floor(Math.random() * 1000));
+        await newTab.close();
+        console.log(chalk.gray(`  ✖️ Closed tab: ${link}`));
       }
-
-      await newTab.close();
-      console.log(chalk.gray(`  ✖️ Closed tab: ${link}`));
     }
 
     await page.close();
@@ -238,6 +237,15 @@ const main = async () => {
 
   for (let i = 1; i <= visits; i++) {
     console.log(chalk.inverse(`\n===== Starting Visit #${i} =====`));
+
+    // ✅ ORDER new proxy and WAIT for response (success or fail)
+    console.log(chalk.bold.yellow(`📡 Ordering new proxy...`));
+    try {
+      await axios.get('https://proxy.shoplike.vn/Api/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c&location=hcm');
+      console.log(chalk.gray('📨 Requested new 1-minute proxy.'));
+    } catch (e) {
+      console.log(chalk.red(`⚠️ Failed to order new proxy: ${e.message}`));
+    }
 
     console.log(chalk.bold.yellow(`📡 Fetching proxy...`));
     let proxyHost, proxyPort, proxyUsername, proxyPassword;
@@ -299,6 +307,7 @@ const main = async () => {
 
   console.log(chalk.greenBright('🎉 All visits completed.'));
 };
+
 
 process.on('unhandledRejection', (reason, promise) => {
   console.log(chalk.red('⚠️ Unhandled Rejection:'), reason);

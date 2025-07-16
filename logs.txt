@@ -2246,3 +2246,3112 @@
 [90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
 [90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
 [31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.126.130:36268[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m💥 Error in runVisit: Protocol error (Page.captureScreenshot): Cannot take screenshot with 0 width.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.126.130:36268[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_2.png[39m
+[36m📄 SERP page #1[39m
+[31m⚠️ Failed to extract SERP links: Execution context was destroyed, most likely because of a navigation.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.1.230:13919[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_3.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-hom-nay/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ban-so-de-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [3/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [4/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [5/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.237.125.114:24371[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_4.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 68s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/chinh-sach-bao-mat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/wheel-of-fortune-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/bingo-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-kieu-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/so-tong-dai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-ap-dung-ty-le-bong-da-keo-nha-cai-khi-ca-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [3/8]: https://8xbetvina.com/[39m
+[31m  ⚠️ Failed to load: https://8xbetvina.com/[39m
+[90m  ➤ Opening [4/8]: https://medastex.eu/[39m
+[31m  ⚠️ Failed to load: https://medastex.eu/[39m
+[90m  ➤ Opening [5/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[31m  ⚠️ Failed to load: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.174.7:16702[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #5: Opening Google...[39m
+[31m💥 Error in runVisit: net::ERR_NETWORK_CHANGED at https://www.google.com.vn[39m
+[31mVisit #5 failed.[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.174.7:16702[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: [object Object][39m
+[31m❌ CAPTCHA solve failed.[39m
+[31mVisit #6 failed.[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.174.7:16702[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #7: Opening Google...[39m
+[31m💥 Error in runVisit: net::ERR_NETWORK_CHANGED at https://www.google.com.vn[39m
+[31mVisit #7 failed.[39m
+[7m[27m
+[7m===== Starting Visit #8 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.174.7:16702[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #8: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_8.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 66s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-danh-bac-trach-nhiem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-truc-tuyen/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[31m⚠️ Interaction failed: Execution context was destroyed, most likely because of a navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [3/9]: https://8xbetvina.com/[39m
+[31m  ⚠️ Failed to load: https://8xbetvina.com/[39m
+[90m  ➤ Opening [4/9]: https://medastex.eu/[39m
+[31m  ⚠️ Failed to load: https://medastex.eu/[39m
+[90m  ➤ Opening [5/9]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[90m  ➤ Opening [6/9]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[31m  ⚠️ Failed to load: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/9]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [8/9]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [9/9]: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[31m  ⚠️ Failed to load: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[7m[27m
+[7m===== Starting Visit #9 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.240.44.29:34906[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #9: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_9.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 62s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/andar-bahar-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-nam/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ve-chung-toi/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ve-chung-toi/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [3/5]: https://8xbetvina.com/[39m
+[31m  ⚠️ Failed to load: https://8xbetvina.com/[39m
+[90m  ➤ Opening [4/5]: https://medastex.eu/[39m
+[31m  ⚠️ Failed to load: https://medastex.eu/[39m
+[90m  ➤ Opening [5/5]: https://drnumb.ru.com/[39m
+[31m  ⚠️ Failed to load: https://drnumb.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #10 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.169.175:27536[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #10: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_10.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #11 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.169.175:27536[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #11: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.119.3:30374[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_1.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 74s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[31m⚠️ Interaction failed: Execution context was destroyed, most likely because of a navigation.[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.24.127:43586[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_2.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 65s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-nha-cai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blog/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/kiem-doi-diem-thuong-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-holdem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-slot-lucky7/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/so-tong-dai-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.24.127:43586[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_3.png[39m
+[36m📄 SERP page #1[39m
+[31m⚠️ Failed to extract SERP links: Execution context was destroyed, most likely because of a navigation.[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.102.252:42905[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_4.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 73s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tong-quan-ve-cong-nghe-song-bac-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tich-keo-nha-cai-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nhan-dinh-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-nhan-biet-link-tai-tai-xiu-an-toan-va-hieu-qua/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-tai-xiu-1-1-4-la-gi-cach-doc-dat-cuoc-hieu-qua-tai-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.102.252:42905[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_5.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 69s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-ap-dung-ty-le-bong-da-keo-nha-cai-khi-ca-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[31m⚠️ Interaction failed: Execution context was destroyed, most likely because of a navigation.[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.5.99:28735[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_6.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-ca-cuoc-an-toan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-doi-tien-that-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-choi-pachinco/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crazy-4-poker-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.5.99:28735[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #7: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_1.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-ap-dung-ty-le-bong-da-keo-nha-cai-khi-ca-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-chien-thuat-cuoc-thong-minh-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-choi-may-slot-game-tai-casino-truc-tuyen-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/wheel-of-fortune-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xi-to-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-tai-tro-man-city/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_2.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_3.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/5]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [4/5]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [5/5]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_4.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 4 links.[39m
+[90m  ➤ Opening [1/4]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/4]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/4]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [4/4]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_5.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/5]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [4/5]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [5/5]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_6.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/5]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [4/5]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [5/5]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #7: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_7.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #8 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #8: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_8.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 2 links.[39m
+[90m  ➤ Opening [1/2]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/2]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #9 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #9: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_9.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #10 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #10: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_10.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 4 links.[39m
+[90m  ➤ Opening [1/4]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/4]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/4]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [4/4]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #11 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #11: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_11.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/5]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [4/5]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [5/5]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #12 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #12: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_12.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 70s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/huong-dan-chi-tiet-cuoc-baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/fan-tan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mega-ball-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #13 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #13: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_13.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/5]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [4/5]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [5/5]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #14 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #14: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_14.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/5]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [4/5]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [5/5]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #15 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #15: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_15.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[31m  ⚠️ Failed to load: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #16 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #16: Opening Google...[39m
+[31m💥 Error in runVisit: Navigation timeout of 30000 ms exceeded[39m
+[31mVisit #16 failed.[39m
+[7m[27m
+[7m===== Starting Visit #17 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.18:16874[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #17: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_17.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 64s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-danh-bac-trach-nhiem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tich-keo-nha-cai-bong-da/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #18 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #19 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #20 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #21 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #22 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #23 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #24 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #25 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #26 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #27 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #28 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #29 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #30 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #31 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #32 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #33 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #34 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #35 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #36 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #37 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #38 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #39 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #40 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #41 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #42 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #43 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #44 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #45 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #46 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #47 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #48 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #49 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #50 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #51 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #52 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #53 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #54 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #55 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #56 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #57 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #58 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #59 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #60 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #61 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #62 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #63 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #64 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #65 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #66 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #67 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #68 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #69 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #70 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #71 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #72 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #73 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #74 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #75 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #76 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #77 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #78 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #79 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #80 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #81 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #82 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #83 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #84 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #85 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #86 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #87 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #88 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #89 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #90 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #91 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #92 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #93 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #94 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #95 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #96 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #97 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #98 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #99 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #100 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #101 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #102 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #103 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #104 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #105 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #106 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #107 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #108 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #109 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #110 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #111 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #112 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #113 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #114 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #115 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #116 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #117 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #118 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #119 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #120 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #121 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #122 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #123 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #124 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #125 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #126 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #127 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #128 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #129 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #130 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #131 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #132 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #133 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #134 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #135 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #136 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #137 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #138 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #139 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #140 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #141 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #142 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #143 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #144 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #145 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #146 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #147 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #148 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #149 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #150 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #151 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #152 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #153 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #154 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #155 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #156 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #157 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #158 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #159 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #160 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #161 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #162 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #163 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #164 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #165 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #166 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #167 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #168 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #169 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #170 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #171 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #172 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #173 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #174 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #175 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #176 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #177 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #178 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #179 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #180 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #181 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #182 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #183 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #184 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #185 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #186 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #187 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #188 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #189 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #190 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #191 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #192 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #193 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #194 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #195 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #196 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #197 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #198 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #199 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #200 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #201 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #202 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #203 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #204 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #205 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #206 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #207 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #208 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #209 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #210 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #211 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #212 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #213 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #214 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #215 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #216 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #217 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #218 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #219 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #220 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #221 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #222 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #223 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #224 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #225 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #226 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #227 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #228 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #229 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #230 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #231 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #232 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #233 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #234 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #235 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #236 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #237 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #238 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #239 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #240 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #241 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #242 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #243 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #244 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #245 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #246 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #247 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #248 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #249 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #250 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #251 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #252 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #253 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #254 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #255 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #256 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #257 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #258 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #259 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #260 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #261 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #262 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #263 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #264 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #265 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #266 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #267 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #268 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #269 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #270 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #271 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #272 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #273 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #274 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #275 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #276 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #277 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #278 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #279 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #280 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #281 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #282 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #283 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #284 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #285 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #286 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #287 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #288 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #289 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #290 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #291 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #292 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #293 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #294 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #295 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #296 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #297 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #298 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #299 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #300 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #301 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #302 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #303 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #304 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #305 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #306 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #307 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #308 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #309 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #310 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #311 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #312 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #313 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #314 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #315 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #316 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #317 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #318 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #319 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #320 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #321 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #322 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #323 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #324 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #325 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #326 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #327 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #328 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #329 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #330 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #331 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #332 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #333 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #334 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #335 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #336 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #337 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #338 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #339 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #340 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #341 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #342 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #343 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #344 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #345 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #346 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #347 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #348 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #349 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #350 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #351 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #352 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #353 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #354 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #355 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #356 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #357 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #358 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #359 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #360 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #361 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #362 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #363 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #364 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #365 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #366 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #367 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #368 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #369 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #370 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #371 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #372 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #373 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #374 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #375 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #376 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #377 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #378 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #379 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #380 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #381 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #382 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #383 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #384 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #385 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #386 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #387 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #388 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #389 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #390 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #391 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #392 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #393 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #394 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #395 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #396 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #397 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #398 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #399 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #400 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #401 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #402 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #403 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #404 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #405 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #406 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #407 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #408 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #409 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #410 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #411 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #412 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #413 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #414 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #415 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #416 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #417 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #418 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #419 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #420 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #421 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #422 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #423 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #424 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #425 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #426 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #427 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #428 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #429 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #430 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #431 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #432 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #433 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #434 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #435 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #436 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #437 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #438 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #439 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #440 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #441 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #442 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #443 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #444 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #445 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #446 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #447 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #448 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #449 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #450 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #451 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #452 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #453 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #454 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #455 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #456 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #457 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #458 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #459 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #460 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #461 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #462 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #463 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #464 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #465 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #466 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #467 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #468 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #469 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #470 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #471 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #472 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #473 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #474 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #475 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #476 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #477 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #478 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #479 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #480 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #481 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #482 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #483 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #484 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #485 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #486 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #487 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #488 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #489 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #490 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #491 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #492 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #493 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #494 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #495 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #496 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #497 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #498 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #499 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #500 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[92m🎉 All visits completed.[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #8 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #9 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #10 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #11 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #12 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #13 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #14 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #15 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[31m❌ Proxy fetch failed: No proxy found in response[39m
+[7m[27m
+[7m===== Starting Visit #16 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.128.97:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_1.png[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 70s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-de-thang-poker-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-slot-lucky7/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/high-card-flush-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xi-to-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/kiem-doi-diem-thuong-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-tai-tro-man-city/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m  ✖️ Closed interactive tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.128.97:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_2.png[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.128.97:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_3.png[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 74s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
