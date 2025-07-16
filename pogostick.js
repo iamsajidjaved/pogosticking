@@ -24,9 +24,16 @@ console.error = (...args) => {
 // =================================
 
 const KEYWORD = '8xbet';
+
 const PROXY_API = 'https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=251911d53fcc081fcbff56c222917c7c';
+
 const CAPTCHA_API_KEY = '792e588602955a039923cf4feeff93ad';
+
 const IP_GEO_API_BASE = 'https://free.freeipapi.com/api/json/';
+
+const WWPROXY_API_KEY = 'UK-e37a0660-63d7-4fc3-8301-85c3848f2292';
+const WWPROXY_BASE = 'https://wwproxy.com/api/client/proxy';
+
 const INTERACTIVE_DOMAINS = [
   'infinitelyloft.com', 'gptservice.app', 'doge30.com', '8xbet.promo',
   'paducahteachersfcu.org', 'honistaapk.me', 'ownchat.me', '8xbet.hot',
@@ -359,56 +366,112 @@ async function runVisit(browser, visitNumber) {
   }
 }
 
+async function getProxyFromWWProxy() {
+  console.log(chalk.bold.yellow(`📡 [WWProxy] Requesting new proxy...`));
+  try {
+    await axios.get(`${WWPROXY_BASE}/available?key=${WWPROXY_API_KEY}`);
+    console.log(chalk.gray(`📨 [WWProxy] Requested new 1-minute proxy.`));
+  } catch (e) {
+    console.log(chalk.red(`⚠️ [WWProxy] Failed to request new proxy: ${e.message}`));
+  }
+
+  console.log(chalk.bold.yellow(`📡 [WWProxy] Fetching current proxy...`));
+  try {
+    const proxyRes = await axios.get(`${WWPROXY_BASE}/current?key=${WWPROXY_API_KEY}`);
+    const data = proxyRes.data?.data;
+    if (!data?.proxy) throw new Error('No proxy in response');
+
+    const [proxyHost, proxyPort] = data.proxy.split(':');
+    console.log(chalk.green(`🔐 [WWProxy] Proxy: ${chalk.bold(`${proxyHost}:${proxyPort}`)}`));
+
+    const geoOk = await fetchProxyGeoInfo(proxyHost);
+    if (!geoOk) {
+      console.log(chalk.red('[WWProxy] ❌ Proxy geo check failed, skipping visit.'));
+      return null;
+    }
+
+    return { proxyHost, proxyPort, proxyUsername: null, proxyPassword: null };
+  } catch (e) {
+    console.log(chalk.red(`❌ [WWProxy] Proxy fetch failed: ${e.message}`));
+    return null;
+  }
+}
+
+async function getProxyFromShoplike() {
+  console.log(chalk.bold.yellow(`📡 [Shoplike] Requesting new proxy...`));
+  try {
+    await axios.get('https://proxy.shoplike.vn/Api/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c');
+    console.log(chalk.gray('[Shoplike] 📨 Requested new 1-minute proxy.'));
+  } catch (e) {
+    console.log(chalk.red(`⚠️ [Shoplike] Failed to order new proxy: ${e.message}`));
+  }
+
+  console.log(chalk.bold.yellow(`📡 [Shoplike] Fetching proxy...`));
+  try {
+    const proxyRes = await axios.get(PROXY_API);
+    const data = proxyRes.data?.data;
+    if (!data?.proxy) throw new Error('No proxy found in response');
+
+    const [proxyHost, proxyPort] = data.proxy.split(':');
+    let proxyUsername = null, proxyPassword = null;
+
+    if (data.auth?.account && data.auth.account.includes(':')) {
+      [proxyUsername, proxyPassword] = data.auth.account.split(':');
+    }
+
+    console.log(chalk.green(`🔐 [Shoplike] Proxy: ${chalk.bold(`${proxyHost}:${proxyPort}`)}`));
+    if (proxyUsername && proxyPassword) {
+      console.log(chalk.green(`🔐 Auth: ${proxyUsername}:${proxyPassword}`));
+    } else {
+      console.log(chalk.yellow(`🔓 No authentication required.`));
+    }
+
+    const geoOk = await fetchProxyGeoInfo(proxyHost);
+    if (!geoOk) {
+      console.log(chalk.red('[Shoplike] ❌ Proxy geo check failed, skipping visit.'));
+      return null;
+    }
+
+    return { proxyHost, proxyPort, proxyUsername, proxyPassword };
+  } catch (e) {
+    console.error(chalk.red(`❌ [Shoplike] Proxy fetch failed: ${e.message}`));
+    return null;
+  }
+}
+
+
 const main = async () => {
   const visits = parseInt(process.argv[2]) || 1;
 
   for (let i = 1; i <= visits; i++) {
     console.log(chalk.inverse(`\n===== Starting Visit #${i} =====`));
 
-    // ✅ ORDER new proxy and WAIT for response (success or fail)
-    console.log(chalk.bold.yellow(`📡 Ordering new proxy...`));
-    try {
-      await axios.get('https://proxy.shoplike.vn/Api/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c&location=hcm');
-      console.log(chalk.gray('📨 Requested new 1-minute proxy.'));
-    } catch (e) {
-      console.log(chalk.red(`⚠️ Failed to order new proxy: ${e.message}`));
+    // 🔀 Randomly choose proxy provider
+    const useWWProxy = Math.random() > 0.5;
+    const providerName = useWWProxy ? 'WWProxy' : 'Shoplike';
+    console.log(chalk.bold.cyan(`🔀 Using proxy provider: ${providerName}`));
+
+    let proxyInfo;
+
+    if (useWWProxy) {
+      proxyInfo = await getProxyFromWWProxy();
+    } else {
+      proxyInfo = await getProxyFromShoplike();
     }
 
-    console.log(chalk.bold.yellow(`📡 Fetching proxy...`));
-    let proxyHost, proxyPort, proxyUsername, proxyPassword;
-
-    try {
-      const proxyRes = await axios.get(PROXY_API);
-      const data = proxyRes.data?.data;
-      if (!data?.proxy) throw new Error('No proxy found in response');
-
-      [proxyHost, proxyPort] = data.proxy.split(':');
-      if (data.auth?.account && data.auth.account.includes(':')) {
-        [proxyUsername, proxyPassword] = data.auth.account.split(':');
-      }
-
-      console.log(chalk.green(`🔐 Proxy: ${chalk.bold(`${proxyHost}:${proxyPort}`)}`));
-      if (proxyUsername && proxyPassword) {
-        console.log(chalk.green(`🔐 Auth: ${proxyUsername}:${proxyPassword}`));
-      } else {
-        console.log(chalk.yellow(`🔓 No authentication required.`));
-      }
-
-      const geoOk = await fetchProxyGeoInfo(proxyHost);
-      if (!geoOk) {
-        console.log(chalk.red('❌ Proxy geo check failed, skipping visit.'));
-        continue;
-      }
-    } catch (e) {
-      console.error(chalk.red(`❌ Proxy fetch failed: ${e.message}`));
+    if (!proxyInfo) {
+      console.log(chalk.red(`❌ Skipping visit #${i} due to proxy error.`));
       continue;
     }
+
+    const { proxyHost, proxyPort, proxyUsername, proxyPassword } = proxyInfo;
 
     const browser = await puppeteer.launch({
       headless: false,
       args: [`--proxy-server=${proxyHost}:${proxyPort}`],
     });
 
+    // Apply proxy auth if needed
     if (proxyUsername && proxyPassword) {
       browser.on('targetcreated', async target => {
         try {
@@ -423,7 +486,7 @@ const main = async () => {
     try {
       const success = await runVisit(browser, i);
       if (!success) {
-        console.log(chalk.red(`Visit #${i} failed.`));
+        console.log(chalk.red(`❌ Visit #${i} failed.`));
       }
     } catch (err) {
       console.log(chalk.red(`💥 Visit #${i} crashed: ${err.message}`));
@@ -434,6 +497,7 @@ const main = async () => {
 
   console.log(chalk.greenBright('🎉 All visits completed.'));
 };
+
 
 
 process.on('unhandledRejection', (reason, promise) => {
