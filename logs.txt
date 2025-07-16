@@ -6848,3 +6848,1558 @@ Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android
   Language: vi
 Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
 [96m🌐 Visit #6: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.195.7:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Clicking [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/chinh-sach-bao-mat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crazy-4-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-nha-cai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-doi-tien-that-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/top-5-meo-choi-tai-xiu-phien-ban-web-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-hom-nay/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keno-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-de-thang-baccarat-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blackjack-super-7s/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.195.7:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Clicking [1/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 74s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/bau-cua-tom-ca-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ban-ca-8xbet-com/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ve-chung-toi/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crown-and-anchor-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.195.250:52915[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Clicking [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Leaving site: https://leonbets.ru.com/[39m
+[90m  ➤ Clicking [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/sitemap/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-nhan-biet-link-tai-tai-xiu-an-toan-va-hieu-qua/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crown-and-anchor-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blog/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.204.131:48338[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Clicking [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Leaving site: https://leonbets.ru.com/[39m
+[90m  ➤ Clicking [2/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 63s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tong-quan-ve-cong-nghe-song-bac-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/toi-da-hoa-chien-thang-voi-cac-meo-ca-cuoc-bong-da-da-duoc-chung-minh/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.204.131:48338[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36","viewport":{"width":640,"height":360,"deviceScaleFactor":3,"isMobile":true,"hasTouch":true,"isLandscape":true}}
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.30.133:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Clicking [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 70s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/may-danh-bac-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/texas-holdem-bonus-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/andar-bahar-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xi-to-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.196.234:46462[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #2: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 10000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.196.234:46462[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Clicking [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 70s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-nam/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/kiem-doi-diem-thuong-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-danh-bac-trach-nhiem/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.200.98:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Lái Thiêu
+  Region:   Bình Dương Province
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 5 links.[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Clicking [1/5]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 63s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-poker-dice-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-bi-kip-thang-lon-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/texas-holdem-bonus-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-nam/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/caribbean-holdem-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/toi-da-hoa-chien-thang-voi-cac-meo-ca-cuoc-bong-da-da-duoc-chung-minh/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-bac/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.200.98:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Lái Thiêu
+  Region:   Bình Dương Province
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.77.230.18:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crazy-4-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-de-thang-baccarat-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/huong-dan-chi-tiet-cuoc-baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/huong-dan-chi-tiet-cuoc-baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-holdem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-de-thang-baccarat-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/caribbean-holdem-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.47.115:46462[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 65s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-nhan-biet-link-tai-tai-xiu-an-toan-va-hieu-qua/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crown-and-anchor-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-bac/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-hom-nay/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ban-so-de-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.47.224:45003[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 71s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-cach-doc-hieu-va-ap-dung-trong-ca-cuoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/meo-dat-cuoc-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-ca-cuoc-an-toan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-bac/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ban-so-de-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-danh-bac-trach-nhiem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/su-quan-trong-cua-viec-so-sanh-ty-le-nha-cai-tu-nhieu-nha-cai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.22.65:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #4: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 10000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.22.65:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #5: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 10000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.73.22.65:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 71s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/so-tong-dai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[31m⚠️ Interaction failed: Execution context was destroyed, most likely because of a navigation.[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.40.147:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #7: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 64s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blog/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/texas-holdem-bonus-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/huong-dan-chi-tiet-cuoc-baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nhan-biet-nha-cai-uy-tin-expert/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #8 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.40.147:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #8: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 66s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tong-quan-ve-cong-nghe-song-bac-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xi-to-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-doc-ty-le-cuoc-chau-a-hieu-qua-tai-8xbet/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #9 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.200.98:53785[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Lái Thiêu
+  Region:   Bình Dương Province
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #9: Opening Google...[39m
+[35m🔗 Found 5 links.[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening in new tab [1/5]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 63s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dai-ly-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/texas-holdem-bonus-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-bi-kip-thang-lon-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-cach-doc-hieu-va-ap-dung-trong-ca-cuoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/meo-dat-cuoc-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tich-keo-nha-cai-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-nhan-biet-link-tai-tai-xiu-an-toan-va-hieu-qua/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #10 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.40.238:56346[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #10: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 5 links.[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening in new tab [1/5]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 74s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/chinh-sach-bao-mat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-uy-tin-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-8xbet-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tich-keo-nha-cai-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-truc-tuyen-8xbet-co-hoi-thang-lon-tai-nha/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #11 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.41.51:55515[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        640
+    Height:       360
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #11: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.41.51:55515[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 14 Plus
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+    Width:        428
+    Height:       745
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 61s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blog/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keno-8xbet/[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.41.51:55515[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 4
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+    Width:        320
+    Height:       480
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 20000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.41.51:55515[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 8 landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+    Width:        667
+    Height:       375
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 20000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.41.145:42661[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone XR
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+    Width:        414
+    Height:       896
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 20000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.199:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Kindle Fire HDX
+    User Agent:     Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true
+    Width:        800
+    Height:       1280
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #5: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.199:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 15 Pro Max landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+    Width:        814
+    Height:       380
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: [object Object][39m
+[31m❌ CAPTCHA solve failed.[39m
+[31mVisit #1 failed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.207.199:54010[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Quận Tân Phú
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 4
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+    Width:        320
+    Height:       480
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 30000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.42.121:13590[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 12 Pro landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        844
+    Height:       390
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #3: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 30000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.42.121:13590[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Galaxy Tab S4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36
+    Width:        1138
+    Height:       712
+    Device Scale: 2.25
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 30000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.42.115:54209[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 6
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+    Width:        375
+    Height:       667
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #5: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.42.115:54209[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPad Pro
+    User Agent:     Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1
+    Width:        1024
+    Height:       1366
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 30000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.42.115:54209[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Galaxy S8
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    Width:        360
+    Height:       740
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.42.115:54209[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone X
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+    Width:        375
+    Height:       812
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Waiting failed: 30000ms exceeded[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.205.59:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 13 Pro Max
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        428
+    Height:       926
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.205.59:45540[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPad
+    User Agent:     Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1
+    Width:        768
+    Height:       1024
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.72:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.206.72:41914[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 3 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 9; Pixel 3 Build/PQ1A.181105.017.A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+    Width:        786
+    Height:       393
+    Device Scale: 2.75
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.138.94:13123[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 11
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+    Width:        414
+    Height:       828
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.74.138.94:13123[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Ho Chi Minh City
+  Region:   Ho Chi Minh
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 13 Pro landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        844
+    Height:       390
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for ~168s...[39m
+[90m    👁️ Staying on page 1 for 13s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    👁️ Staying on page 2 for 14s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/kiem-doi-diem-thuong-8xbet/[39m
+[90m    👁️ Staying on page 3 for 19s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    👁️ Staying on page 4 for 23s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/trang-web-8xbet/[39m
+[90m    👁️ Staying on page 5 for 28s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    👁️ Staying on page 6 for 15s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[31m    ⚠️ Failed to navigate to https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[36m🛑 Finished smart interaction on europauniversitypress.co.uk.[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.254.194.181:52578[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 15 Plus landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+    Width:        814
+    Height:       380
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for ~120s...[39m
+[90m    👁️ Staying on page 1 for 25s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[90m    👁️ Staying on page 2 for 11s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/meo-dat-cuoc-8xbet/[39m
+[90m    👁️ Staying on page 3 for 25s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    👁️ Staying on page 4 for 11s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/du-xuan-8xbet/[39m
+[90m    👁️ Staying on page 5 for 26s...[39m
+[31m⚠️ Interaction failed: Attempted to use detached Frame 'DE422D733EC5B6B1415E207FDC47E851'.[39m
+[36m🛑 Finished smart interaction on europauniversitypress.co.uk.[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[31m  ⚠️ Failed to load or interact: Protocol error: Connection closed.[39m
+[31m💥 Error in runVisit: Protocol error: Connection closed.[39m
+[31mVisit #2 failed.[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.204.131:29933[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 11
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+    Width:        414
+    Height:       828
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for ~171s...[39m
+[90m    👁️ Staying on page 1 for 27s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-cach-doc-hieu-va-ap-dung-trong-ca-cuoc/[39m
+[90m    👁️ Staying on page 2 for 29s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    👁️ Staying on page 3 for 14s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/texas-holdem-bonus-poker-8xbet/[39m
+[90m    👁️ Staying on page 4 for 16s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/bi-kip-ca-cuoc-bong-da-8xbet/[39m
+[90m    👁️ Staying on page 5 for 12s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[36m🛑 Finished smart interaction on europauniversitypress.co.uk.[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.201.9:28017[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPad
+    User Agent:     Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1
+    Width:        768
+    Height:       1024
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.201.9:28017[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Galaxy S9+ landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36
+    Width:        658
+    Height:       320
+    Device Scale: 4.5
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.106.201.9:28017[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 11 Pro
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+    Width:        375
+    Height:       812
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for ~124s...[39m
+[90m    👁️ Staying on page 1 for 17s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/[39m
+[90m    👁️ Staying on page 2 for 20s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/[39m
+[90m    👁️ Staying on page 3 for 27s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/dieu-khoan-dieu-kien-cua-8xbet/[39m
+[90m    👁️ Staying on page 4 for 18s...[39m
+[90m    🔗 Clicking internal link: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[36m🛑 Finished smart interaction on europauniversitypress.co.uk.[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Ordering new proxy...[39m[22m
+[90m📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.227.45.55:16804[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 14
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+    Width:        390
+    Height:       663
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #7: Opening Google...[39m

@@ -90,87 +90,77 @@ async function solveRecaptcha(page) {
 }
 
 async function interactWithPage(page, domain) {
-  const totalTime = 60000 + Math.floor(Math.random() * 15000);
-  const endTime = Date.now() + totalTime;
-  console.log(chalk.cyan(`🕹️ Interacting with ${domain} for ${Math.floor(totalTime / 1000)}s...`));
+  const totalVisitTime = 120000 + Math.floor(Math.random() * 60000); // 120s–180s
+  const endTime = Date.now() + totalVisitTime;
+  let pageCount = 0;
+
+  console.log(chalk.cyan(`🕹️ Interacting with ${domain} for ${Math.floor(totalVisitTime / 1000)}s...`));
 
   try {
-    await page.evaluate(() => window.scrollTo(0, 0));
     while (Date.now() < endTime) {
-      await page.evaluate(() => window.scrollBy(0, window.innerHeight / 2));
-      await delay(3000 + Math.random() * 2000);
+      // Scroll up and down like a human
+      const scrollTimes = 3 + Math.floor(Math.random() * 3); // 3–5 scrolls
+      for (let i = 0; i < scrollTimes; i++) {
+        await page.evaluate(() => window.scrollBy(0, window.innerHeight / 1.5));
+        await delay(2000 + Math.random() * 2000);
+      }
 
-      const links = await page.$$eval('a', anchors =>
-        anchors.map(a => a.href).filter(h => h && h.startsWith(location.origin) && !h.includes('#'))
+      // Sometimes scroll up a bit
+      if (Math.random() > 0.5) {
+        await page.evaluate(() => window.scrollBy(0, -window.innerHeight / 2));
+        await delay(1500 + Math.random() * 1500);
+      }
+
+      // Interact with internal links on the page
+      const internalLinks = await page.$$eval('a', anchors =>
+        anchors.map(a => a.href).filter(href => {
+          try {
+            const url = new URL(href);
+            return url.hostname === location.hostname && !href.includes('#');
+          } catch {
+            return false;
+          }
+        })
       );
 
-      if (links.length > 0) {
-        const randomLink = links[Math.floor(Math.random() * links.length)];
-        console.log(chalk.gray(`    🔗 Navigating to: ${randomLink}`));
+      if (internalLinks.length > 0 && Date.now() + 10000 < endTime) {
+        const nextLink = internalLinks[Math.floor(Math.random() * internalLinks.length)];
+        console.log(chalk.gray(`    🔗 Navigating to: ${nextLink}`));
         try {
-          await page.goto(randomLink, { waitUntil: 'domcontentloaded', timeout: 30000 });
-        } catch {
-          console.log(chalk.red(`    ⚠️ Failed internal navigation.`));
+          await page.goto(nextLink, { waitUntil: 'domcontentloaded', timeout: 20000 });
+          pageCount++;
+        } catch (e) {
+          console.log(chalk.red(`    ⚠️ Navigation error: ${e.message}`));
+          break;
         }
+      } else {
+        // No more time or no links — just stay on the current page
+        const remaining = endTime - Date.now();
+        const stay = Math.max(10000, Math.min(30000, remaining));
+        console.log(chalk.gray(`    💤 Staying on current page for ${Math.floor(stay / 1000)}s...`));
+        await delay(stay);
+        break;
       }
+
+      // Stay 10–60s per page
+      const dwell = 10000 + Math.floor(Math.random() * 50000);
+      console.log(chalk.gray(`    ⏳ Staying on this page for ${Math.floor(dwell / 1000)}s...`));
+      await delay(dwell);
     }
+
+    console.log(chalk.cyan(`✅ Finished interaction. Visited ${pageCount + 1} page(s).`));
   } catch (e) {
-    console.log(chalk.red(`⚠️ Interaction failed: ${e.message}`));
+    console.log(chalk.red(`⚠️ Interaction error: ${e.message}`));
   }
 }
+
+
 
 async function runVisit(browser, visitNumber) {
   const page = await browser.newPage();
 
-  const device = puppeteer.pptr.KnownDevices[
-    'Blackberry PlayBook',
-    'Blackberry PlayBook landscape',
-    'BlackBerry Z30',
-    'BlackBerry Z30 landscape',
-    'Galaxy Note 3',
-    'Galaxy Note 3 landscape',
-    'Galaxy Note II',
-    'Galaxy Note II landscape',
-    'Galaxy S III',
-    'Galaxy S III landscape',
-    'Galaxy S5',
-    'Galaxy S5 landscape',
-    'Galaxy S8',
-    'Galaxy S8 landscape',
-    'Galaxy S9+',
-    'Galaxy S9+ landscape',
-    'Galaxy Tab S4',
-    'Galaxy Tab S4 landscape',
-    'iPad',
-    'iPad landscape',
-    'iPad (gen 6)',
-    'iPad (gen 6) landscape',
-    'iPad (gen 7)',
-    'iPad (gen 7) landscape',
-    'iPad Mini',
-    'iPad Mini landscape',
-    'iPad Pro',
-    'iPad Pro landscape',
-    'iPad Pro 11',
-    'iPad Pro 11 landscape',
-    'iPhone 4',
-    'iPhone 4 landscape',
-    'iPhone 5',
-    'iPhone 5 landscape',
-    'iPhone 6',
-    'iPhone 6 landscape',
-    'iPhone 6 Plus',
-    'iPhone 6 Plus landscape',
-    'iPhone 7',
-    'iPhone 7 landscape',
-    'iPhone 7 Plus',
-    'iPhone 7 Plus landscape',
-    'iPhone 8',
-    'iPhone 8 landscape',
-    'iPhone 8 Plus',
-    'iPhone 8 Plus landscape',
-    'iPhone SE',
-    'iPhone SE landscape',
+
+  const devices = [
     'iPhone X',
     'iPhone X landscape',
     'iPhone XR',
@@ -213,33 +203,12 @@ async function runVisit(browser, visitNumber) {
     'iPhone 15 Pro landscape',
     'iPhone 15 Pro Max',
     'iPhone 15 Pro Max landscape',
-    'JioPhone 2',
-    'JioPhone 2 landscape',
-    'Kindle Fire HDX',
-    'Kindle Fire HDX landscape',
-    'LG Optimus L70',
-    'LG Optimus L70 landscape',
-    'Microsoft Lumia 550',
-    'Microsoft Lumia 950',
-    'Microsoft Lumia 950 landscape',
-    'Nexus 10',
-    'Nexus 10 landscape',
-    'Nexus 4',
-    'Nexus 4 landscape',
-    'Nexus 5',
-    'Nexus 5 landscape',
-    'Nexus 5X',
-    'Nexus 5X landscape',
-    'Nexus 6',
-    'Nexus 6 landscape',
-    'Nexus 6P',
-    'Nexus 6P landscape',
-    'Nexus 7',
-    'Nexus 7 landscape',
-    'Nokia Lumia 520',
-    'Nokia Lumia 520 landscape',
-    'Nokia N9',
-    'Nokia N9 landscape',
+    'Galaxy S5',
+    'Galaxy S5 landscape',
+    'Galaxy S8',
+    'Galaxy S8 landscape',
+    'Galaxy S9+',
+    'Galaxy S9+ landscape',
     'Pixel 2',
     'Pixel 2 landscape',
     'Pixel 2 XL',
@@ -253,8 +222,19 @@ async function runVisit(browser, visitNumber) {
     'Pixel 5',
     'Pixel 5 landscape',
     'Moto G4',
-    'Moto G4 landscape'
+    'Moto G4 landscape',
+    'iPad',
+    'iPad landscape',
+    'iPad Mini',
+    'iPad Mini landscape',
+    'iPad Pro 11',
+    'iPad Pro 11 landscape'
   ];
+
+
+
+  const randomDeviceName = devices[Math.floor(Math.random() * devices.length)];
+  const device = puppeteer.pptr.KnownDevices[randomDeviceName];
 
   console.log(chalk.blueBright('📱 Device Info:'));
   console.log(`    Name:           ${device.name || 'N/A'}`);
@@ -312,10 +292,10 @@ async function runVisit(browser, visitNumber) {
     let links = [];
     try {
       // Wait again after CAPTCHA solve
-      await page.waitForSelector('.MjjYud', { timeout: 10000 });
+      await page.waitForSelector('.MjjYud, .egMi0', { timeout: 3000000 });
       await delay(1000); // optional: extra safety wait
 
-      links = await page.$$eval('.MjjYud', divs =>
+      links = await page.$$eval('.MjjYud, .egMi0', divs =>
         divs.map(div => {
           const aTag = div.querySelector('a');
           return aTag ? aTag.href : null;
@@ -340,43 +320,34 @@ async function runVisit(browser, visitNumber) {
         continue;
       }
 
-      console.log(chalk.gray(`  ➤ Clicking [${i + 1}/${links.length}]: ${link}`));
+      console.log(chalk.gray(`  ➤ Opening in new tab [${i + 1}/${links.length}]: ${link}`));
+
+      // Open new tab/page
+      const newPage = await browser.newPage();
+      await newPage.emulate(device); // Keep same device emulation
+
       try {
-        // Simulate a human clicking the link
-        const clicked = await page.evaluate((targetHref) => {
-          const anchors = Array.from(document.querySelectorAll('.MjjYud a'));
-          const target = anchors.find(a => a.href === targetHref);
-          if (target) {
-            target.click();
-            return true;
-          }
-          return false;
-        }, link);
-
-        if (!clicked) {
-          console.log(chalk.red(`  ❌ Couldn't find clickable link for: ${link}`));
-          continue;
-        }
-
-        await page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 15000 });
+        await newPage.goto(link, { waitUntil: 'domcontentloaded', timeout: 30000 });
 
         if (INTERACTIVE_DOMAINS.includes(domain)) {
           console.log(chalk.green(`  🟢 Interactive domain matched: ${domain}`));
-          await interactWithPage(page, domain);
+          await interactWithPage(newPage, domain);
           console.log(chalk.gray(`  ✖️ Finished interaction on: ${link}`));
-          break;
+          await newPage.close();
+          break; // Exit loop if needed after interaction
         } else {
           console.log(chalk.yellow(`  🕒 Non-target site, closing after short wait.`));
           await delay(2000 + Math.floor(Math.random() * 1000));
-          console.log(chalk.gray(`  ✖️ Leaving site: ${link}`));
-          await page.goBack({ waitUntil: 'domcontentloaded', timeout: 10000 });
+          await newPage.close();
+          console.log(chalk.gray(`  ✖️ Closed tab: ${link}`));
         }
       } catch (e) {
-        console.log(chalk.red(`  ⚠️ Click failed or navigation issue: ${e.message}`));
-        try { await page.goBack(); } catch { }
+        console.log(chalk.red(`  ⚠️ Failed to load or interact: ${e.message}`));
+        await newPage.close();
         continue;
       }
     }
+
 
 
     await page.close();
