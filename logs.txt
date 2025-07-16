@@ -1,0 +1,2248 @@
+[7m[27m
+[7m===== Starting Visit #1 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.224.77.199:11681[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_1.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 61s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/fan-tan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/huong-dan-chi-tiet-cuoc-baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/caribbean-holdem-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/high-card-flush-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/high-card-flush-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/kiem-doi-diem-thuong-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-danh-bac-trach-nhiem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #2 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.224.77.199:11681[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_2.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 62s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-bi-kip-thang-lon-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-video-poker/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-nam/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #3 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.240.25.138:30176[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m💥 Error in runVisit: Protocol error (Page.captureScreenshot): Cannot take screenshot with 0 width.[39m
+[31mVisit #3 failed.[39m
+[7m[27m
+[7m===== Starting Visit #4 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.116.219:39746[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #4: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_4.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 68s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ve-chung-toi/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-tai-xiu-1-1-4-la-gi-cach-doc-dat-cuoc-hieu-qua-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mega-ball-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/mo-thay-nguoi-chet-y-nghia-va-con-so-may-man-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/huong-dan-chi-tiet-cuoc-baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #5 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.115.124:26037[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #5: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m💥 Error in runVisit: Protocol error (Page.captureScreenshot): Cannot take screenshot with 0 width.[39m
+[31mVisit #5 failed.[39m
+[7m[27m
+[7m===== Starting Visit #6 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.115.124:26037[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_6.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #7 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.115.124:26037[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #7: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_7.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[31m  ⚠️ Failed to load: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[31m  ⚠️ Failed to load: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[31m  ⚠️ Failed to load: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #8 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.237.91.64:13547[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #8: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_8.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 71s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dai-ly-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-slot-lucky7/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-hom-nay/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-choi-bai-tu-sac/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/bullfight-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/wheel-of-fortune-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #9 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.254.8:25587[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #9: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_9.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #10 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.254.8:25587[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #10: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_10.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 74s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/chinh-sach-bao-mat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/meo-dat-cuoc-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-online/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xi-to-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #11 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.254.8:25587[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #11: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: [object Object][39m
+[31m❌ CAPTCHA solve failed.[39m
+[31mVisit #11 failed.[39m
+[7m[27m
+[7m===== Starting Visit #12 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.76.16.74:45575[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Long Xuyen
+  Region:   An Giang Province
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #12: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_12.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 62s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-chien-thuat-cuoc-thong-minh-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/texas-holdem-bonus-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-online/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/texas-holdem-bonus-poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-nhan-biet-link-tai-tai-xiu-an-toan-va-hieu-qua/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-tai-xiu-1-1-4-la-gi-cach-doc-dat-cuoc-hieu-qua-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/may-danh-bac-bong-da-8xbet/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [5/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #13 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.85.98:46279[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #13: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_13.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://goldprice.sa.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://goldprice.sa.com/[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[31m  ⚠️ Failed to load: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[31m  ⚠️ Failed to load: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [7/8]: https://cheapnikenfljerseys.us.com/[39m
+[31m  ⚠️ Failed to load: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #14 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.237.88.166:13445[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #14: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_14.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #15 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.237.88.166:13445[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #15: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_15.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #16 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.103.37.103:39176[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Huế
+  Region:   Thừa Thiên Huế Province
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #16: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_16.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/5]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/5]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 70s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/andar-bahar-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-nhan-biet-link-tai-tai-xiu-an-toan-va-hieu-qua/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [5/5]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[7m[27m
+[7m===== Starting Visit #17 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.103.37.103:39176[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Huế
+  Region:   Thừa Thiên Huế Province
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #17: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_17.png[39m
+[36m📄 SERP page #1[39m
+[31m⚠️ Failed to extract SERP links: Execution context was destroyed, most likely because of a navigation.[39m
+[7m[27m
+[7m===== Starting Visit #18 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.5.154:14515[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #18: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_18.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-cach-doc-hieu-va-ap-dung-trong-ca-cuoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-nha-cai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-ca-cuoc-an-toan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tich-keo-nha-cai-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/jacks-or-better/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [5/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [6/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [7/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [8/8]: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[7m[27m
+[7m===== Starting Visit #19 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.7.193.176:23088[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #19: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_19.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 66s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/andar-bahar-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/chinh-sach-bao-mat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-8xbet/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [5/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #20 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.7.193.176:23088[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #20: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_20.png[39m
+[36m📄 SERP page #1[39m
+[31m⚠️ Failed to extract SERP links: Execution context was destroyed, most likely because of a navigation.[39m
+[7m[27m
+[7m===== Starting Visit #21 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.131.56:21305[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #21: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_21.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-holdem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-tai-xiu-1-1-4-la-gi-cach-doc-dat-cuoc-hieu-qua-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-holdem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-truc-tuyen-8xbet-co-hoi-thang-lon-tai-nha/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/app-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-online/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-ca-cuoc-the-thao-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [5/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #22 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.239.42:27941[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #22: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_22.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 6 links.[39m
+[90m  ➤ Opening [1/6]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/6]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/6]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/6]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nam-mo-thay-mau-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/fan-tan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-holdem/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-de-thang-baccarat-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [5/6]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [6/6]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #23 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.239.42:27941[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #23: Opening Google...[39m
+[31m💥 Error in runVisit: No element found for selector: textarea[name="q"][39m
+[31mVisit #23 failed.[39m
+[7m[27m
+[7m===== Starting Visit #24 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.239.42:27941[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #24: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_24.png[39m
+[36m📄 SERP page #1[39m
+[31m⚠️ Failed to extract SERP links: Execution context was destroyed, most likely because of a navigation.[39m
+[7m[27m
+[7m===== Starting Visit #25 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.5.134.33:53848[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Lai Cách
+  Region:   Hải Dương Province
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #25: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_25.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 71s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-kieu-my/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xi-to-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/may-danh-bac-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dai-ly-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/kiem-doi-diem-thuong-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #26 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.77.197.218:59473[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #26: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_26.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 65s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-truc-tuyen-8xbet-co-hoi-thang-lon-tai-nha/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[31m  ⚠️ Failed to load: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[90m  ➤ Opening [7/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #27 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.225.124.89:21374[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #27: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m💥 Error in runVisit: Protocol error (Page.captureScreenshot): Cannot take screenshot with 0 width.[39m
+[31mVisit #27 failed.[39m
+[7m[27m
+[7m===== Starting Visit #28 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.225.124.89:21374[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #28: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_28.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 4 links.[39m
+[90m  ➤ Opening [1/4]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/4]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/4]: https://medastex.eu/[39m
+[31m  ⚠️ Failed to load: https://medastex.eu/[39m
+[90m  ➤ Opening [4/4]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[31m  ⚠️ Failed to load: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[7m[27m
+[7m===== Starting Visit #29 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.5.133.161:59619[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #29: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_29.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #30 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.5.133.161:59619[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #30: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_30.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 61s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/may-danh-bac-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tro-choi-casino-truc-tuyen-tot-nhat-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/roulette-online/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-online/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #31 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.98.199.40:46216[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #31: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_31.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 7 links.[39m
+[90m  ➤ Opening [1/7]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/7]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/7]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/7]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/7]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 68s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-choi-crazy-time-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/casino-truc-tuyen-8xbet-co-hoi-thang-lon-tai-nha/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-tro-choi-song-bac-pho-bien-de-choi-va-kiem-tien-tai-viet-nam/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-nhan-biet-link-tai-tai-xiu-an-toan-va-hieu-qua/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/7]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/7]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #32 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.1.228.171:49151[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #32: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_32.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 68s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[31m⚠️ Interaction failed: Execution context was destroyed, most likely because of a navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #33 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.240.77:41991[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #33: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_33.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #34 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.240.77:41991[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #34: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_34.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 0 links.[39m
+[7m[27m
+[7m===== Starting Visit #35 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.18.220:41733[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #35: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_35.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #36 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.18.220:41733[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #36: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_36.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #37 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.237.110.218:23589[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #37: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_37.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://portal.huflit.edu.vn/8XBET[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/8XBET[39m
+[90m  ➤ Opening [3/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [4/8]: https://bristolairport.uk.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://bristolairport.uk.com/[39m
+[90m  ➤ Opening [5/8]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [6/8]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [7/8]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[90m  ➤ Opening [8/8]: https://giaoducthoidai.vn/8xbet-to-chuc-danh-bac-trai-phep-moi-nguoi-can-than-keo-sap-bay-trang-tay-post625041.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/8xbet-to-chuc-danh-bac-trai-phep-moi-nguoi-can-than-keo-sap-bay-trang-tay-post625041.html[39m
+[7m[27m
+[7m===== Starting Visit #38 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.2.199.224:50549[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #38: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_38.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 7 links.[39m
+[90m  ➤ Opening [1/7]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/7]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/7]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/7]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/7]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/so-tong-dai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-ca-cuoc-an-toan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-bi-kip-thang-lon-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/7]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/7]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #39 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.121.6:11024[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #39: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_39.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blog/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-online/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/sitemap/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-casino/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #40 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.238.67.230:51734[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #40: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_40.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 1 links.[39m
+[90m  ➤ Opening [1/1]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #41 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.238.67.230:51734[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #41: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_41.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #42 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.238.67.230:51734[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #42: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_42.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #43 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.1.228.43:18695[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #43: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: [object Object][39m
+[31m❌ CAPTCHA solve failed.[39m
+[31mVisit #43 failed.[39m
+[7m[27m
+[7m===== Starting Visit #44 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.1.228.43:18695[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #44: Opening Google...[39m
+[31m💥 Error in runVisit: No element found for selector: textarea[name="q"][39m
+[31mVisit #44 failed.[39m
+[7m[27m
+[7m===== Starting Visit #45 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.1.228.43:18695[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #45: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_45.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #46 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m117.1.228.43:18695[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Haiphong
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #46: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_46.png[39m
+[36m📄 SERP page #1[39m
+[31m⚠️ Failed to extract SERP links: Execution context was destroyed, most likely because of a navigation.[39m
+[7m[27m
+[7m===== Starting Visit #47 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.12.97:19413[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #47: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_47.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 63s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/chinh-sach-bao-mat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dieu-khoan-dieu-kien-cua-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crown-and-anchor-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/cach-choi-may-slot-game-tai-casino-truc-tuyen-8xbet/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [5/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [6/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [7/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[31m  ⚠️ Failed to load: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #48 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m27.66.230.242:29247[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #48: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_48.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #49 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m27.66.230.242:29247[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #49: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_49.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 67s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tro-choi-slot-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nap-tien-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/10-meo-ca-cuoc-an-toan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #50 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.225.123.229:23895[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #50: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_50.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 3 links.[39m
+[90m  ➤ Opening [1/3]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/3]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/3]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[7m[27m
+[7m===== Starting Visit #51 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.77.230.166:35862[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #51: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_51.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 62s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tong-quan-ve-cong-nghe-song-bac-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/caribbean-holdem-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/wheel-of-fortune-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [7/8]: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #52 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m115.77.230.166:35862[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #52: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_52.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 68s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/su-quan-trong-cua-viec-so-sanh-ty-le-nha-cai-tu-nhieu-nha-cai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/fan-tan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/caribbean-holdem-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/5-sai-lam-can-tranh-khi-danh-bac-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/huong-dan-chi-tiet-cuoc-baccarat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-nha-cai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-2025/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [7/8]: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[90m  ➤ Opening [8/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[7m[27m
+[7m===== Starting Visit #53 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.237.127.75:42239[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #53: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_53.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 74s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-ca-cuoc-the-thao-truc-tuyen/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/lo-de/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/xo-so-mien-bac/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [7/8]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [8/8]: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[7m[27m
+[7m===== Starting Visit #54 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.21.195:34770[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #54: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_54.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 60s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet-2/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[31m⚠️ Interaction failed: Execution context was destroyed, most likely because of a navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening [7/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[90m  ➤ Opening [8/8]: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[31m  ⚠️ Failed to load: https://vks.dongnai.gov.vn/Pages/video/?play=8xbet%208xbet[39m
+[7m[27m
+[7m===== Starting Visit #55 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.238.238.108:25903[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #55: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_55.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 72s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/sitemap/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-thong-bao-quan-trong/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/nha-cai-8xbet-2025/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/giai-ma-keo-nha-cai-cach-doc-hieu-va-ap-dung-trong-ca-cuoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-slot-lucky7/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/the-most-popular-online-casino-games-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #56 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m171.245.91.117:16617[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #56: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_56.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 5 links.[39m
+[90m  ➤ Opening [1/5]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/5]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/5]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/5]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/5]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 73s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dai-ly-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/game-bai/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/caribbean-holdem-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/trang-web-ca-cuoc-bong-da-hop-phap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tro-choic-casino/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/blog/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-khong-vao-duoc/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[7m[27m
+[7m===== Starting Visit #57 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.108.64:42905[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #57: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_57.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 7 links.[39m
+[90m  ➤ Opening [1/7]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/7]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening [3/7]: https://portal.huflit.edu.vn/8XBET[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://portal.huflit.edu.vn/8XBET[39m
+[90m  ➤ Opening [4/7]: https://eva.sudamericano.ec/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://eva.sudamericano.ec/[39m
+[90m  ➤ Opening [5/7]: https://bristolairport.uk.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://bristolairport.uk.com/[39m
+[90m  ➤ Opening [6/7]: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://giaoducthoidai.vn/bo-cong-an-khuyen-cao-ve-ma-tran-co-bac-8xbet-post625118.html[39m
+[90m  ➤ Opening [7/7]: https://sg-rethen.de.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sg-rethen.de.com/[39m
+[7m[27m
+[7m===== Starting Visit #58 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.107.108.64:42905[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #58: Opening Google...[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_58.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 74s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/huong-dan-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-ky-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/dang-nhap-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-xiu-2-5-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-tai-xiu-1-1-4-la-gi-cach-doc-dat-cuoc-hieu-qua-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/keo-bong-da-hom-nay-cach-doc-ty-le-cuoc-tai-8xbet/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[90m  ➤ Opening [7/8]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load: https://loto.jpn.com/[39m
+[90m  ➤ Opening [8/8]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[31m  ⚠️ Failed to load: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[7m[27m
+[7m===== Starting Visit #59 =====[27m
+[1m[33m📡 Fetching proxy...[39m[22m
+[32m🔐 Proxy: [1m116.104.173.120:58797[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[96m🌐 Visit #59: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[32m📸 Saved Google SERP screenshot: C:\Users\Grith\OneDrive\Documents\pogosticking-chatgpt\screenshots\serp_visit_59.png[39m
+[36m📄 SERP page #1[39m
+[35m🔗 Found 8 links.[39m
+[90m  ➤ Opening [1/8]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening [2/8]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening [3/8]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening [4/8]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening [5/8]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 62s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/sitemap/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/game-bingo-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/slot-game-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/8xbet-slot-lucky7/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tro-choi-casino-truc-tuyen-tot-nhat-tai-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/quay-hu/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/crown-and-anchor-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/red-dog-8xbet-chien-thang-lon/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tin-noi-bat-8xbet/[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tong-quan-ve-cong-nghe-song-bac-truc-tuyen/[39m
+[31m    ⚠️ Failed internal navigation.[39m
+[90m  ✖️ Closed tab: https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening [6/8]: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m
+[31m  ⚠️ Failed to load: https://portal.huflit.edu.vn/News/%C4%91%C4%83ng-nh%E1%BA%ADp-8xbet.phtm[39m

@@ -26,13 +26,13 @@ console.error = (...args) => {
 
 const KEYWORD = '8xbet';
 const PROXY_API = 'https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=b4b85546eaddfd86d54506c91d69e60d';
-const CAPTCHA_API_KEY = '97706adf3edd3a9c3b0cc9d589a9f1e9';
+const CAPTCHA_API_KEY = '792e588602955a039923cf4feeff93ad';
 const IP_GEO_API_BASE = 'https://free.freeipapi.com/api/json/';
 const INTERACTIVE_DOMAINS = [
   'infinitelyloft.com', 'gptservice.app', 'doge30.com', '8xbet.promo',
   'paducahteachersfcu.org', 'honistaapk.me', 'ownchat.me', '8xbet.hot',
   '8xbetg.cc', 'servicesdealer.us', 'neodewa.org', 'wallcovering.club',
-  '8xbetvn.ch', '8xbetd.xyz'
+  '8xbetvn.ch', '8xbetd.xyz', 'europauniversitypress.co.uk'
 ];
 
 const delay = ms => new Promise(res => setTimeout(res, ms));
@@ -270,7 +270,7 @@ const main = async () => {
     }
 
     const browser = await puppeteer.launch({
-      headless: true,
+      headless: false,
       args: [`--proxy-server=${proxyHost}:${proxyPort}`],
     });
 
