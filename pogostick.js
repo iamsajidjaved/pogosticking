@@ -1,5 +1,4 @@
 import fs from 'fs';
-import path from 'path';
 import puppeteer from 'puppeteer-extra';
 import RecaptchaPlugin from 'puppeteer-extra-plugin-recaptcha';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
@@ -24,8 +23,24 @@ console.error = (...args) => {
 // =================================
 
 const keywords = [
-  { keyword: '8xbet', visits_required: 500, visits_completed: 0 }
-  // Add more keywords as needed
+  { keyword: '8xbet', visits_required: 1000, visits_completed: 0 },
+  { keyword: '8xbet bóng đá', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet acc', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet chính thức', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet có uy tín không', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet Man City', visits_required: 100, visits_completed: 0 },
+  { keyword: '8x bet', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet của nước nào', visits_required: 100, visits_completed: 0 },
+  { keyword: 'Xóa tài khoản 8xbet', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet esport', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet khoá tài khoản', visits_required: 100, visits_completed: 0 },
+  { keyword: 'Xóa tài khoản 8xbet', visits_required: 100, visits_completed: 0 },
+  { keyword: '8xbet europauniversitypress', visits_required: 500, visits_completed: 0 },
+  { keyword: '8xbet andygriffithshow', visits_required: 500, visits_completed: 0 },
+  { keyword: '8xbet soi kèo', visits_required: 50, visits_completed: 0 },
+  { keyword: '8xbet trực tiếp bóng đá', visits_required: 50, visits_completed: 0 },
+  { keyword: '8xbet có uy tín k', visits_required: 50, visits_completed: 0 },
+  { keyword: '8xbet xem bóng đá', visits_required: 50, visits_completed: 0 },
 ];
 
 
@@ -38,11 +53,13 @@ const IP_GEO_API_BASE = 'https://free.freeipapi.com/api/json/';
 const WWPROXY_API_KEY = 'UK-e37a0660-63d7-4fc3-8301-85c3848f2292';
 const WWPROXY_BASE = 'https://wwproxy.com/api/client/proxy';
 
+const GOOGLE_DOMAINS = ['https://www.google.com', 'https://www.google.com.vn'];
+
 const INTERACTIVE_DOMAINS = [
   'infinitelyloft.com', 'gptservice.app', 'doge30.com', '8xbet.promo',
   'paducahteachersfcu.org', 'honistaapk.me', 'ownchat.me', '8xbet.hot',
   '8xbetg.cc', 'servicesdealer.us', 'neodewa.org', 'wallcovering.club',
-  '8xbetvn.ch', '8xbetd.xyz', 'europauniversitypress.co.uk', 'www.andygriffithshow.net'
+  '8xbetvn.ch', '8xbetd.xyz', 'europauniversitypress.co.uk', 'www.andygriffithshow.net', 'www.infinitelyloft.com'
 ];
 
 const delay = ms => new Promise(res => setTimeout(res, ms));
@@ -261,18 +278,30 @@ async function runVisit(browser, visitNumber, keyword) {
 
   await page.emulate(device);
 
-  await page.setExtraHTTPHeaders({ 'Accept-Language': 'vi-VN,vi;q=0.9' });
-  await page.emulateTimezone('Asia/Ho_Chi_Minh');
+  const isVietnamese = Math.random() < 0.5;
 
-  await page.evaluateOnNewDocument(() => {
-    Object.defineProperty(navigator, 'language', { get: () => 'vi-VN' });
-    Object.defineProperty(navigator, 'languages', { get: () => ['vi-VN', 'vi'] });
-  });
+  if (isVietnamese) {
+    await page.setExtraHTTPHeaders({ 'Accept-Language': 'vi-VN,vi;q=0.9' });
+    await page.emulateTimezone('Asia/Ho_Chi_Minh');
+    await page.evaluateOnNewDocument(() => {
+      Object.defineProperty(navigator, 'language', { get: () => 'vi-VN' });
+      Object.defineProperty(navigator, 'languages', { get: () => ['vi-VN', 'vi'] });
+    });
+  } else {
+    await page.setExtraHTTPHeaders({ 'Accept-Language': 'en-US,en;q=0.9' });
+    await page.emulateTimezone('America/New_York');
+    await page.evaluateOnNewDocument(() => {
+      Object.defineProperty(navigator, 'language', { get: () => 'en-US' });
+      Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+    });
+  }
+
 
   console.log(chalk.cyanBright(`🌐 Visit #${visitNumber}: Opening Google...`));
 
   try {
-    await page.goto('https://www.google.com.vn', { waitUntil: 'networkidle2' });
+    const googleURL = GOOGLE_DOMAINS[Math.floor(Math.random() * GOOGLE_DOMAINS.length)];
+    await page.goto(googleURL, { waitUntil: 'networkidle2' });
     const searchSelector = 'textarea[name="q"], input[name="q"]';
     await page.waitForSelector(searchSelector, { timeout: 100 });
     await page.type(searchSelector, keyword, { delay: 100 });
@@ -465,8 +494,10 @@ const main = async () => {
     console.log(chalk.inverse(`\n===== Starting Visit #${visitNumber} for keyword "${keyword}" =====`));
 
     // 🔀 Random proxy provider
-    const useWWProxy = Math.random() > 0.5;
-    const providerName = useWWProxy ? 'WWProxy' : 'Shoplike';
+    // const useWWProxy = Math.random() > 0.5;
+    // const providerName = useWWProxy ? 'WWProxy' : 'Shoplike';
+    const useWWProxy = 1;
+    const providerName = 'Shoplike';
     console.log(chalk.bold.cyan(`🔀 Using proxy provider: ${providerName}`));
 
     let proxyInfo = useWWProxy
