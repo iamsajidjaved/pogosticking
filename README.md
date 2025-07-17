@@ -78,6 +78,7 @@ This will perform 2025-07-17 08:07:40 +0400 automated visits, each using a rando
 - **Formatting and Simplifying the Code**: Refactor the codebase to improve readability, reduce complexity, and follow consistent formatting standards.
 - **Integrate multiple Google domains**: Support searching on multiple Google domains such as `google.com` and `google.com.vn`.
 - **Integrate multiple browser languages**: Support browsing with different language settings, including English and Vietnamese.
+- **Google Ads**: Support for clicking on Google Ads. 
 
 
 ## Notes
