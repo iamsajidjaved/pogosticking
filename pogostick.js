@@ -23,7 +23,23 @@ console.error = (...args) => {
 };
 // =================================
 
-const KEYWORD = '8xbet';
+const keywords = [
+  { keyword: '8xbet', visits_required: 500, visits_completed: 0 },
+  { keyword: '8x bet', visits_required: 50, visits_completed: 0 },
+  { keyword: 'đăng nhập 8xbet', visits_required: 30, visits_completed: 0 },
+  { keyword: 'x8bet', visits_required: 20, visits_completed: 0 },
+  { keyword: 'Cược 8x bet', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet bóng đá', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet chính thức', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet Man City', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet có uy tín không', visits_required: 10, visits_completed: 0 },
+  { keyword: 'Xóa tài khoản 8xbet', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet của nước nào', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet hoàn cược lần đầu', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet soi kèo', visits_required: 10, visits_completed: 0 },
+  // Add more keywords as needed
+];
+
 
 const PROXY_API = 'https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=251911d53fcc081fcbff56c222917c7c';
 
@@ -38,7 +54,7 @@ const INTERACTIVE_DOMAINS = [
   'infinitelyloft.com', 'gptservice.app', 'doge30.com', '8xbet.promo',
   'paducahteachersfcu.org', 'honistaapk.me', 'ownchat.me', '8xbet.hot',
   '8xbetg.cc', 'servicesdealer.us', 'neodewa.org', 'wallcovering.club',
-  '8xbetvn.ch', '8xbetd.xyz', 'europauniversitypress.co.uk'
+  '8xbetvn.ch', '8xbetd.xyz', 'europauniversitypress.co.uk', 'www.andygriffithshow.net'
 ];
 
 const delay = ms => new Promise(res => setTimeout(res, ms));
@@ -163,7 +179,8 @@ async function interactWithPage(page, domain) {
 
 
 
-async function runVisit(browser, visitNumber) {
+async function runVisit(browser, visitNumber, keyword) {
+
   const page = await browser.newPage();
 
 
@@ -270,7 +287,8 @@ async function runVisit(browser, visitNumber) {
     await page.goto('https://www.google.com.vn', { waitUntil: 'networkidle2' });
     const searchSelector = 'textarea[name="q"], input[name="q"]';
     await page.waitForSelector(searchSelector, { timeout: 100 });
-    await page.type(searchSelector, KEYWORD, { delay: 100 });
+    await page.type(searchSelector, keyword, { delay: 100 });
+
     await page.keyboard.press('Enter');
 
     try {
@@ -441,26 +459,34 @@ async function getProxyFromShoplike() {
 
 
 const main = async () => {
-  const visits = parseInt(process.argv[2]) || 1;
+  let totalVisits = 0;
 
-  for (let i = 1; i <= visits; i++) {
-    console.log(chalk.inverse(`\n===== Starting Visit #${i} =====`));
+  while (true) {
+    const remainingKeywords = keywords.filter(k => k.visits_completed < k.visits_required);
+    if (remainingKeywords.length === 0) {
+      console.log(chalk.greenBright('\n🎉 All keyword traffic goals completed. Exiting...'));
+      break;
+    }
 
-    // 🔀 Randomly choose proxy provider
+    const selected = remainingKeywords[Math.floor(Math.random() * remainingKeywords.length)];
+    const keyword = selected.keyword;
+    const keywordIndex = keywords.findIndex(k => k.keyword === keyword);
+    const visitNumber = selected.visits_completed + 1;
+    totalVisits++;
+
+    console.log(chalk.inverse(`\n===== Starting Visit #${visitNumber} for keyword "${keyword}" =====`));
+
+    // 🔀 Random proxy provider
     const useWWProxy = Math.random() > 0.5;
     const providerName = useWWProxy ? 'WWProxy' : 'Shoplike';
     console.log(chalk.bold.cyan(`🔀 Using proxy provider: ${providerName}`));
 
-    let proxyInfo;
-
-    if (useWWProxy) {
-      proxyInfo = await getProxyFromWWProxy();
-    } else {
-      proxyInfo = await getProxyFromShoplike();
-    }
+    let proxyInfo = useWWProxy
+      ? await getProxyFromWWProxy()
+      : await getProxyFromShoplike();
 
     if (!proxyInfo) {
-      console.log(chalk.red(`❌ Skipping visit #${i} due to proxy error.`));
+      console.log(chalk.red(`❌ Skipping visit due to proxy error.`));
       continue;
     }
 
@@ -471,7 +497,6 @@ const main = async () => {
       args: [`--proxy-server=${proxyHost}:${proxyPort}`],
     });
 
-    // Apply proxy auth if needed
     if (proxyUsername && proxyPassword) {
       browser.on('targetcreated', async target => {
         try {
@@ -484,19 +509,23 @@ const main = async () => {
     }
 
     try {
-      const success = await runVisit(browser, i);
-      if (!success) {
-        console.log(chalk.red(`❌ Visit #${i} failed.`));
+      const success = await runVisit(browser, visitNumber, keyword);
+      if (success) {
+        keywords[keywordIndex].visits_completed++;
+        console.log(chalk.green(`✅ Updated visits_completed: ${keywords[keywordIndex].visits_completed}/${keywords[keywordIndex].visits_required} for "${keyword}"`));
+      } else {
+        console.log(chalk.red(`❌ Visit failed for keyword "${keyword}".`));
       }
     } catch (err) {
-      console.log(chalk.red(`💥 Visit #${i} crashed: ${err.message}`));
+      console.log(chalk.red(`💥 Visit crashed: ${err.message}`));
     }
 
     await browser.close();
   }
 
-  console.log(chalk.greenBright('🎉 All visits completed.'));
+  console.log(chalk.greenBright(`\n🏁 Finished ${totalVisits} total visits.`));
 };
+
 
 
 
