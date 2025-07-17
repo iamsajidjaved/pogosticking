@@ -22250,3 +22250,1209 @@ Simulating  {"name":"Moto G4 landscape","userAgent":"Mozilla/5.0 (Linux; Android
     Touch:        Yes
     Landscape:    No
 [96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: Waiting for selector `textarea[name="q"], input[name="q"]` failed: Waiting failed: 100ms exceeded[39m
+[31m❌ Visit failed for keyword "8xbet".[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet chính thức" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: Request failed with status code 400[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet của nước nào" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.245.114.38:51933[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 12 Pro Max
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        428
+    Height:       926
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud, .egMi0` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet của nước nào"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "8xbet của nước nào" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet hoàn cược lần đầu" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[90m📨 [WWProxy] Requested new 1-minute proxy.[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "Xóa tài khoản 8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.238.238.108:19985[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+    Width:        745
+    Height:       353
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud, .egMi0` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[32m✅ Updated visits_completed: 1/10 for "Xóa tài khoản 8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet soi kèo" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: read ECONNRESET[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.238.238.108:19985[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 12 Pro
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        390
+    Height:       844
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m💥 Error in runVisit: net::ERR_PROXY_CONNECTION_FAILED at https://www.google.com.vn[39m
+[31m❌ Visit failed for keyword "8xbet soi kèo".[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet có uy tín không" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "x8bet" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[90m📨 [WWProxy] Requested new 1-minute proxy.[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[32m🔐 [WWProxy] Proxy: [1m117.2.234.58:26592[22m[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPad Pro 11
+    User Agent:     Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        834
+    Height:       1194
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet bóng đá" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[32m🔐 [WWProxy] Proxy: [1m117.2.234.58:26592[22m[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Galaxy S8
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    Width:        360
+    Height:       740
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet của nước nào" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "đăng nhập 8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet của nước nào" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "Xóa tài khoản 8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "Cược 8x bet" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8x bet" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet có uy tín không" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[90m📨 [WWProxy] Requested new 1-minute proxy.[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[31m❌ [WWProxy] Proxy fetch failed: read ECONNRESET[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "Cược 8x bet" =====[27m
+[1m[36m🔀 Using proxy provider: WWProxy[39m[22m
+[1m[33m📡 [WWProxy] Requesting new proxy...[39m[22m
+[31m⚠️ [WWProxy] Failed to request new proxy: read ECONNRESET[39m
+[1m[33m📡 [WWProxy] Fetching current proxy...[39m[22m
+[32m🔐 [WWProxy] Proxy: [1m171.228.208.192:21467[22m[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPad Mini landscape
+    User Agent:     Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1
+    Width:        1024
+    Height:       768
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet Man City" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.249.65.177:15508[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 4a (5G)
+    User Agent:     Mozilla/5.0 (Linux; Android 11; Pixel 4a (5G)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        353
+    Height:       745
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 167s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    ⏳ Staying on this page for 32s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    ⏳ Staying on this page for 46s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    ⏳ Staying on this page for 50s...[39m
+[36m✅ Finished interaction. Visited 4 page(s).[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet Man City"[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "đăng nhập 8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.238.236.78:53665[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 15 landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+    Width:        734
+    Height:       343
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening in new tab [2/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 151s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/khuyen-mai-8xbet/[39m
+[90m    ⏳ Staying on this page for 34s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/poker-8xbet/[39m
+[90m    ⏳ Staying on this page for 54s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    ⏳ Staying on this page for 28s...[39m
+[36m✅ Finished interaction. Visited 4 page(s).[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[32m✅ Updated visits_completed: 1/30 for "đăng nhập 8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet hoàn cược lần đầu" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.107.214.28:29733[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 13 Pro
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        390
+    Height:       844
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://thuvienphapluat.vn/hoi-dap-phap-luat/c%C3%A1c%20trang%20c%E1%BB%A7a%20okvip[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/hoi-dap-phap-luat/c%C3%A1c%20trang%20c%E1%BB%A7a%20okvip[39m
+[90m  ➤ Opening in new tab [2/9]: https://pressbooks.pub/app/uploads/sites/16334/2024/07/Khuyen-mai-dac-biet-tai-8xbet_-The-thao-Casino-hap-dan.pdf[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://pressbooks.pub/app/uploads/sites/16334/2024/07/Khuyen-mai-dac-biet-tai-8xbet_-The-thao-Casino-hap-dan.pdf[39m
+[90m  ➤ Opening in new tab [3/9]: https://www.facebook.com/8xbet10/posts/-b%E1%BA%A3o-hi%E1%BB%83m-th%E1%BB%83-thao-c%C6%B0%E1%BB%A3c-%C4%91%E1%BA%A7u-ti%C3%AAn-ho%C3%A0n-ti%E1%BB%81n-c%C6%B0%E1%BB%A3c-100-%C4%91i%E1%BB%81u-ki%E1%BB%87n-%C3%A1p-d%E1%BB%A5ngn%E1%BB%81n-t%E1%BA%A3ng-%C4%91%C4%83/122131969220165726/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://www.facebook.com/8xbet10/posts/-b%E1%BA%A3o-hi%E1%BB%83m-th%E1%BB%83-thao-c%C6%B0%E1%BB%A3c-%C4%91%E1%BA%A7u-ti%C3%AAn-ho%C3%A0n-ti%E1%BB%81n-c%C6%B0%E1%BB%A3c-100-%C4%91i%E1%BB%81u-ki%E1%BB%87n-%C3%A1p-d%E1%BB%A5ngn%E1%BB%81n-t%E1%BA%A3ng-%C4%91%C4%83/122131969220165726/[39m
+[90m  ➤ Opening in new tab [4/9]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening in new tab [5/9]: https://www.andygriffithshow.net/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://www.andygriffithshow.net/[39m
+[90m  ➤ Opening in new tab [6/9]: https://skii.vn/wp-includes/Text/Diff/Engine/nhung-chuong-trinh-khuyen-mai-8xbet-cuc-hap-dan-cho-hoi-vien.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://skii.vn/wp-includes/Text/Diff/Engine/nhung-chuong-trinh-khuyen-mai-8xbet-cuc-hap-dan-cho-hoi-vien.html[39m
+[90m  ➤ Opening in new tab [7/9]: https://mncatlinhdd.edu.vn/nw/khuyen-mai-8xbet-huong-dan-toan-dien-ve-uu-dai-hap-dan-nam-2025/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://mncatlinhdd.edu.vn/nw/khuyen-mai-8xbet-huong-dan-toan-dien-ve-uu-dai-hap-dan-nam-2025/[39m
+[90m  ➤ Opening in new tab [8/9]: https://maxpc.vn/order/8xbet-ho%C3%A0n-c%C6%B0%E1%BB%A3c-l%E1%BA%A7n-%C4%91%E1%BA%A7u/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://maxpc.vn/order/8xbet-ho%C3%A0n-c%C6%B0%E1%BB%A3c-l%E1%BA%A7n-%C4%91%E1%BA%A7u/[39m
+[90m  ➤ Opening in new tab [9/9]: https://www.batdongsanocn.com/mobile/8xbet-ho%C3%A0n-c%C6%B0%E1%BB%A3c-l%E1%BA%A7n-%C4%91%E1%BA%A7u/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://www.batdongsanocn.com/mobile/8xbet-ho%C3%A0n-c%C6%B0%E1%BB%A3c-l%E1%BA%A7n-%C4%91%E1%BA%A7u/[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet hoàn cược lần đầu"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "đăng nhập 8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.245.124.160:39635[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone X
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+    Width:        375
+    Height:       812
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 2/30 for "đăng nhập 8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet soi kèo" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.97.56.193:48271[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 13 Pro landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        844
+    Height:       390
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://cheapnikenfljerseys.us.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://cheapnikenfljerseys.us.com/[39m
+[90m  ➤ Opening in new tab [2/10]: https://www.andygriffithshow.net/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://www.andygriffithshow.net/[39m
+[90m  ➤ Opening in new tab [3/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 136s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    ⏳ Staying on this page for 41s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    ⏳ Staying on this page for 37s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[31m    ⚠️ Navigation error: net::ERR_TIMED_OUT at https://europauniversitypress.co.uk/loi-the-khi-tham-gia-trang-ca-cuoc-bong-da-8xbet/[39m
+[36m✅ Finished interaction. Visited 3 page(s).[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet soi kèo"[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet bóng đá" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.104.131.41:41862[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone X
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+    Width:        375
+    Height:       812
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet bóng đá"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "8xbet soi kèo" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.104.173.50:11957[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 11 Pro Max
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+    Width:        414
+    Height:       896
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud, .egMi0` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[32m✅ Updated visits_completed: 2/10 for "8xbet soi kèo"[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "Xóa tài khoản 8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.104.135.199:45309[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 2 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mobile Safari/537.36
+    Width:        731
+    Height:       411
+    Device Scale: 2.625
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://www.ari.org.vn/mobile9554/c%C3%A1ch-x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://www.ari.org.vn/mobile9554/c%C3%A1ch-x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[90m  ➤ Opening in new tab [2/9]: https://onca.edu.vn/game/c%C3%A1ch-x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://onca.edu.vn/game/c%C3%A1ch-x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[90m  ➤ Opening in new tab [3/9]: https://www.youtube.com/watch?v=IDVzxltssVw[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://www.youtube.com/watch?v=IDVzxltssVw[39m
+[90m  ➤ Opening in new tab [4/9]: https://thuvienphapluat.vn/ma-so-thue/bai-viet/chu-de//casino%20kuwin%20casino%20kuwin%20kuwin[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/ma-so-thue/bai-viet/chu-de//casino%20kuwin%20casino%20kuwin%20kuwin[39m
+[90m  ➤ Opening in new tab [5/9]: https://mezunlar.ankara.edu.tr/app/x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[31m  ⚠️ Failed to load or interact: net::ERR_TUNNEL_CONNECTION_FAILED at https://mezunlar.ankara.edu.tr/app/x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[90m  ➤ Opening in new tab [6/9]: https://setuphotel.vn/style/c%C3%A1ch-x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet.html[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://setuphotel.vn/style/c%C3%A1ch-x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet.html[39m
+[90m  ➤ Opening in new tab [7/9]: https://m.facebook.com/public/X%C3%B3a-T%C3%A0i-Kho%E1%BA%A3n-8xbet%E3%80%90y793.Com%E3%80%91Li%C3%AAn-K%E1%BA%BFt-L%C3%A0-V%C4%A9nh-Vi%E1%BB%85nCh%E1%BB%A9ng-Nh%E1%BA%ADn-Ch%C3%ADnh-Th%E1%BB%A9c-Trong-10-N%C4%83mC%E1%BB%9D-B%E1%BA%A1c-Tr%E1%BB%B1c-Tuy%E1%BA%BFn%E3%80%90y793.Com%E3%80%91Li%C3%AAn-K%E1%BA%BFt-L%C3%A0-V%C4%A9nh-Vi%E1%BB%85n.Fqp/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://m.facebook.com/public/X%C3%B3a-T%C3%A0i-Kho%E1%BA%A3n-8xbet%E3%80%90y793.Com%E3%80%91Li%C3%AAn-K%E1%BA%BFt-L%C3%A0-V%C4%A9nh-Vi%E1%BB%85nCh%E1%BB%A9ng-Nh%E1%BA%ADn-Ch%C3%ADnh-Th%E1%BB%A9c-Trong-10-N%C4%83mC%E1%BB%9D-B%E1%BA%A1c-Tr%E1%BB%B1c-Tuy%E1%BA%BFn%E3%80%90y793.Com%E3%80%91Li%C3%AAn-K%E1%BA%BFt-L%C3%A0-V%C4%A9nh-Vi%E1%BB%85n.Fqp/[39m
+[90m  ➤ Opening in new tab [8/9]: https://www.next.edu.vn/mobile/x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://www.next.edu.vn/mobile/x%C3%B3a-t%C3%A0i-kho%E1%BA%A3n-8xbet/[39m
+[90m  ➤ Opening in new tab [9/9]: https://www.andygriffithshow.net/xoa-tai-khoan-8xbet/[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "x8bet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m117.1.235.49:14721[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Galaxy S8
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    Width:        360
+    Height:       740
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 1/20 for "x8bet"[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "đăng nhập 8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m117.1.235.49:14721[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone XR landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+    Width:        896
+    Height:       414
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 1/30 for "đăng nhập 8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "x8bet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m117.2.177.103:5024[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Huế
+  Region:   Thừa Thiên Huế Province
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Galaxy S5
+    User Agent:     Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mobile Safari/537.36
+    Width:        360
+    Height:       640
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.107.210.11:17046[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 12 Pro
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        390
+    Height:       844
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: Error: Attempted to use detached Frame '4BA87A56C84D15DEEDFC11A0F2684D78'.[39m
+[31m❌ CAPTCHA solve failed.[39m
+[31m💥 Error in runVisit: Protocol error: Connection closed.[39m
+[31m❌ Visit failed for keyword "8xbet".[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.234.71.201:36164[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 4 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+    Width:        745
+    Height:       353
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening in new tab [2/9]: https://sub-surface.uk.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sub-surface.uk.com/[39m
+[90m  ➤ Opening in new tab [3/9]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening in new tab [4/9]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening in new tab [5/9]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening in new tab [6/9]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening in new tab [7/9]: https://snv.dongnai.gov.vn/video/?play=Review%208Xbet[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://snv.dongnai.gov.vn/video/?play=Review%208Xbet[39m
+[90m  ➤ Opening in new tab [8/9]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 170s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ve-chung-toi/[39m
+[90m    ⏳ Staying on this page for 42s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[31m    ⚠️ Navigation error: net::ERR_TIMED_OUT at https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[36m✅ Finished interaction. Visited 2 page(s).[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[32m✅ Updated visits_completed: 1/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.237.127.47:37541[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 15 Plus
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+    Width:        430
+    Height:       739
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening in new tab [2/10]: https://sub-surface.uk.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sub-surface.uk.com/[39m
+[90m  ➤ Opening in new tab [3/10]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening in new tab [4/10]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening in new tab [5/10]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening in new tab [6/10]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening in new tab [7/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 173s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    ⏳ Staying on this page for 52s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/ty-le-bong-da/[39m
+[90m    ⏳ Staying on this page for 14s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/[39m
+[90m    ⏳ Staying on this page for 13s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/tai-app-8xbet/[39m
+[31m    ⚠️ Navigation error: net::ERR_PROXY_CONNECTION_FAILED at https://europauniversitypress.co.uk/tai-app-8xbet/[39m
+[36m✅ Finished interaction. Visited 4 page(s).[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[32m✅ Updated visits_completed: 2/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #3 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.224.252.54:44821[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 12 Mini
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        375
+    Height:       812
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #3: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud, .egMi0` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[32m✅ Updated visits_completed: 3/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #4 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m117.1.230.72:30166[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Núi Đèo
+  Region:   Haiphong
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 13 Pro
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        390
+    Height:       844
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening in new tab [2/9]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening in new tab [3/9]: https://sub-surface.uk.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sub-surface.uk.com/[39m
+[90m  ➤ Opening in new tab [4/9]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening in new tab [5/9]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening in new tab [6/9]: https://loto.jpn.com/[39m
+[31m  ⚠️ Failed to load or interact: Navigation timeout of 30000 ms exceeded[39m
+[90m  ➤ Opening in new tab [7/9]: https://snv.dongnai.gov.vn/video/?play=Review%208Xbet[39m
+[31m  ⚠️ Failed to load or interact: net::ERR_TIMED_OUT at https://snv.dongnai.gov.vn/video/?play=Review%208Xbet[39m
+[90m  ➤ Opening in new tab [8/9]: https://europauniversitypress.co.uk/[39m
+[31m  ⚠️ Failed to load or interact: net::ERR_TIMED_OUT at https://europauniversitypress.co.uk/[39m
+[90m  ➤ Opening in new tab [9/9]: https://medastex.eu/[39m
+[31m  ⚠️ Failed to load or interact: net::ERR_TIMED_OUT at https://medastex.eu/[39m
+[32m✅ Updated visits_completed: 4/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #5 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.104.135.36:32639[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPad Pro 11 landscape
+    User Agent:     Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+    Width:        1194
+    Height:       834
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #5: Opening Google...[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 5/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #6 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.104.135.36:32639[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 4
+    User Agent:     Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+    Width:        353
+    Height:       745
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #6: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 10 links.[39m
+[35m🔗 Found 10 links.[39m
+[90m  ➤ Opening in new tab [1/10]: https://sub-surface.uk.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://sub-surface.uk.com/[39m
+[90m  ➤ Opening in new tab [2/10]: https://leonbets.ru.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://leonbets.ru.com/[39m
+[90m  ➤ Opening in new tab [3/10]: https://medastex.eu/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://medastex.eu/[39m
+[90m  ➤ Opening in new tab [4/10]: https://8xbetvina.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://8xbetvina.com/[39m
+[90m  ➤ Opening in new tab [5/10]: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://chuyendoiso.thaibinh.gov.vn/8xbet-app.aspx[39m
+[90m  ➤ Opening in new tab [6/10]: https://loto.jpn.com/[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://loto.jpn.com/[39m
+[90m  ➤ Opening in new tab [7/10]: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/www%20cwin%20com[39m
+[90m  ➤ Opening in new tab [8/10]: https://snv.dongnai.gov.vn/video/?play=Review%208Xbet[39m
+[33m  🕒 Non-target site, closing after short wait.[39m
+[90m  ✖️ Closed tab: https://snv.dongnai.gov.vn/video/?play=Review%208Xbet[39m
+[90m  ➤ Opening in new tab [9/10]: https://europauniversitypress.co.uk/[39m
+[32m  🟢 Interactive domain matched: europauniversitypress.co.uk[39m
+[36m🕹️ Interacting with europauniversitypress.co.uk for 178s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/rut-tien-8xbet-2/[39m
+[90m    ⏳ Staying on this page for 29s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/8xbet/[39m
+[90m    ⏳ Staying on this page for 29s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/tai-xiu/[39m
+[90m    ⏳ Staying on this page for 51s...[39m
+[90m    🔗 Navigating to: https://europauniversitypress.co.uk/category/the-thao/[39m
+[90m    ⏳ Staying on this page for 39s...[39m
+[36m✅ Finished interaction. Visited 5 page(s).[39m
+[90m  ✖️ Finished interaction on: https://europauniversitypress.co.uk/[39m
+[32m✅ Updated visits_completed: 6/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #7 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.104.175.232:50444[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone X landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+    Width:        812
+    Height:       375
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #7: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 7/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #8 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.249.70.19:20581[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 5
+    User Agent:     Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        393
+    Height:       851
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #8: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud, .egMi0` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[32m✅ Updated visits_completed: 8/500 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #9 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.245.13.16:30166[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 4
+    User Agent:     Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+    Width:        353
+    Height:       745
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #9: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://leonbets.ru.com/[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: No proxy found in response[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m

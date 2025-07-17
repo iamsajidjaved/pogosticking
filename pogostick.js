@@ -24,19 +24,7 @@ console.error = (...args) => {
 // =================================
 
 const keywords = [
-  { keyword: '8xbet', visits_required: 500, visits_completed: 0 },
-  { keyword: '8x bet', visits_required: 50, visits_completed: 0 },
-  { keyword: 'đăng nhập 8xbet', visits_required: 30, visits_completed: 0 },
-  { keyword: 'x8bet', visits_required: 20, visits_completed: 0 },
-  { keyword: 'Cược 8x bet', visits_required: 10, visits_completed: 0 },
-  { keyword: '8xbet bóng đá', visits_required: 10, visits_completed: 0 },
-  { keyword: '8xbet chính thức', visits_required: 10, visits_completed: 0 },
-  { keyword: '8xbet Man City', visits_required: 10, visits_completed: 0 },
-  { keyword: '8xbet có uy tín không', visits_required: 10, visits_completed: 0 },
-  { keyword: 'Xóa tài khoản 8xbet', visits_required: 10, visits_completed: 0 },
-  { keyword: '8xbet của nước nào', visits_required: 10, visits_completed: 0 },
-  { keyword: '8xbet hoàn cược lần đầu', visits_required: 10, visits_completed: 0 },
-  { keyword: '8xbet soi kèo', visits_required: 10, visits_completed: 0 },
+  { keyword: '8xbet', visits_required: 500, visits_completed: 0 }
   // Add more keywords as needed
 ];
 
