@@ -1,0 +1,16 @@
+{
+    "PROXY_API_BASE": "https://proxy.shoplike.vn/Api/getCurrentProxy",
+    "SHOPLIKE_ACCESS_TOKEN": "SHOPLIKE_ACCESS_TOKEN",
+    "CAPTCHA_API_KEY": "CAPTCHA_API_KEY",
+    "IP_GEO_API_BASE": "https://free.freeipapi.com/api/json/",
+    "keywords": [
+        {
+            "keyword": "Guest Post",
+            "visits_required": 10,
+            "visits_completed": 0
+        }
+    ],
+    "INTERACTIVE_DOMAINS": [
+        "guestspostings.co.in"
+    ]
+}
