@@ -1,12 +1,15 @@
 {
+    "PROXY_API": "https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=251911d53fcc081fcbff56c222917c7c",
+    "CAPTCHA_API_KEY": "792e588602955a039923cf4feeff93ad",
+    "IP_GEO_API_BASE": "https://free.freeipapi.com/api/json/",
     "keywords": [
         {
             "keyword": "8xbet",
-            "visits_required": 500,
+            "visits_required": 10,
             "visits_completed": 0
         }
     ],
-    "interactiveDomains": [
+    "INTERACTIVE_DOMAINS": [
         "infinitelyloft.com",
         "gptservice.app",
         "doge30.com",
@@ -22,17 +25,7 @@
         "8xbetvn.ch",
         "8xbetd.xyz",
         "europauniversitypress.co.uk",
-        "www.andygriffithshow.net"
-    ],
-    "apiKeys": {
-        "captcha": "792e588602955a039923cf4feeff93ad",
-        "shoplike": "b4b85546eaddfd86d54506c91d69e60d",
-        "wwproxy": "UK-e37a0660-63d7-4fc3-8301-85c3848f2292"
-    },
-    "proxyApiUrls": {
-        "shoplike": "https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=b4b85546eaddfd86d54506c91d69e60d",
-        "shoplikeNew": "https://proxy.shoplike.vn/Api/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c",
-        "wwproxy": "https://wwproxy.com/api/client/proxy"
-    },
-    "ipGeoApiBase": "https://free.freeipapi.com/api/json/"
+        "www.andygriffithshow.net",
+        "guestspostings.co.in"
+    ]
 }

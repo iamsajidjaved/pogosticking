@@ -5,9 +5,18 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import axios from 'axios';
 import chalk from 'chalk';
 
+// Load config.json
+const config = JSON.parse(fs.readFileSync('./config.json', 'utf-8'));
+
+const keywords = config.keywords;
+const PROXY_API = config.PROXY_API;
+const CAPTCHA_API_KEY = config.CAPTCHA_API_KEY;
+const IP_GEO_API_BASE = config.IP_GEO_API_BASE;
+const INTERACTIVE_DOMAINS = config.INTERACTIVE_DOMAINS;
+
 puppeteer.use(StealthPlugin());
 
-// ======= Log to logs.txt =======
+// loging setup
 const logStream = fs.createWriteStream('logs.txt', { flags: 'a' });
 const origLog = console.log;
 const origErr = console.error;
@@ -20,48 +29,9 @@ console.error = (...args) => {
   origErr(...args);
   logStream.write(args.map(arg => (typeof arg === 'string' ? arg : JSON.stringify(arg))).join(' ') + '\n');
 };
-// =================================
 
-const keywords = [
-  { keyword: '8xbet', visits_required: 1000, visits_completed: 0 },
-  { keyword: '8xbet bóng đá', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet acc', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet chính thức', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet có uy tín không', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet Man City', visits_required: 100, visits_completed: 0 },
-  { keyword: '8x bet', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet của nước nào', visits_required: 100, visits_completed: 0 },
-  { keyword: 'Xóa tài khoản 8xbet', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet esport', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet khoá tài khoản', visits_required: 100, visits_completed: 0 },
-  { keyword: 'Xóa tài khoản 8xbet', visits_required: 100, visits_completed: 0 },
-  { keyword: '8xbet europauniversitypress', visits_required: 500, visits_completed: 0 },
-  { keyword: '8xbet andygriffithshow', visits_required: 500, visits_completed: 0 },
-  { keyword: '8xbet soi kèo', visits_required: 50, visits_completed: 0 },
-  { keyword: '8xbet trực tiếp bóng đá', visits_required: 50, visits_completed: 0 },
-  { keyword: '8xbet có uy tín k', visits_required: 50, visits_completed: 0 },
-  { keyword: '8xbet xem bóng đá', visits_required: 50, visits_completed: 0 },
-];
-
-
-const PROXY_API = 'https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=251911d53fcc081fcbff56c222917c7c';
-
-const CAPTCHA_API_KEY = '792e588602955a039923cf4feeff93ad';
-
-const IP_GEO_API_BASE = 'https://free.freeipapi.com/api/json/';
-
-const WWPROXY_API_KEY = 'UK-e37a0660-63d7-4fc3-8301-85c3848f2292';
-const WWPROXY_BASE = 'https://wwproxy.com/api/client/proxy';
-
-const GOOGLE_DOMAINS = ['https://www.google.com', 'https://www.google.com.vn'];
-
-const INTERACTIVE_DOMAINS = [
-  'infinitelyloft.com', 'gptservice.app', 'doge30.com', '8xbet.promo',
-  'paducahteachersfcu.org', 'honistaapk.me', 'ownchat.me', '8xbet.hot',
-  '8xbetg.cc', 'servicesdealer.us', 'neodewa.org', 'wallcovering.club',
-  '8xbetvn.ch', '8xbetd.xyz', 'europauniversitypress.co.uk', 'www.andygriffithshow.net', 'www.infinitelyloft.com'
-];
-
+// delay function for waiting
+// This is used to simulate human-like delays between actions
 const delay = ms => new Promise(res => setTimeout(res, ms));
 
 puppeteer.use(
@@ -71,6 +41,8 @@ puppeteer.use(
   })
 );
 
+// Function to fetch proxy geo info
+// This function retrieves geographical information about the proxy IP
 async function fetchProxyGeoInfo(ip) {
   try {
     const res = await axios.get(IP_GEO_API_BASE + ip, { timeout: 10000 });
@@ -91,6 +63,8 @@ async function fetchProxyGeoInfo(ip) {
   }
 }
 
+// Function to solve reCAPTCHA
+// This function attempts to solve a reCAPTCHA using the 2Captcha service
 async function solveRecaptcha(page) {
   console.log(chalk.yellow(`🔐 Solving CAPTCHA (single attempt)...`));
   try {
@@ -117,6 +91,8 @@ async function solveRecaptcha(page) {
   }
 }
 
+// Function to interact with the page
+// This function simulates human-like interactions on the page, such as scrolling and clicking links
 async function interactWithPage(page, domain) {
   const totalVisitTime = 120000 + Math.floor(Math.random() * 60000); // 120s–180s
   const endTime = Date.now() + totalVisitTime;
@@ -182,12 +158,11 @@ async function interactWithPage(page, domain) {
   }
 }
 
-
-
+// Function to run a single visit
+// This function opens Google, searches for a keyword, and interacts with the results
 async function runVisit(browser, visitNumber, keyword) {
 
   const page = await browser.newPage();
-
 
   const devices = [
     'iPhone X',
@@ -260,8 +235,6 @@ async function runVisit(browser, visitNumber, keyword) {
     'iPad Pro 11 landscape'
   ];
 
-
-
   const randomDeviceName = devices[Math.floor(Math.random() * devices.length)];
   const device = puppeteer.pptr.KnownDevices[randomDeviceName];
 
@@ -275,33 +248,20 @@ async function runVisit(browser, visitNumber, keyword) {
   console.log(`    Touch:        ${device.viewport.hasTouch ? 'Yes' : 'No'}`);
   console.log(`    Landscape:    ${device.viewport.isLandscape ? 'Yes' : 'No'}`);
 
-
   await page.emulate(device);
 
-  const isVietnamese = Math.random() < 0.5;
+  await page.setExtraHTTPHeaders({ 'Accept-Language': 'vi-VN,vi;q=0.9' });
+  await page.emulateTimezone('Asia/Ho_Chi_Minh');
 
-  if (isVietnamese) {
-    await page.setExtraHTTPHeaders({ 'Accept-Language': 'vi-VN,vi;q=0.9' });
-    await page.emulateTimezone('Asia/Ho_Chi_Minh');
-    await page.evaluateOnNewDocument(() => {
-      Object.defineProperty(navigator, 'language', { get: () => 'vi-VN' });
-      Object.defineProperty(navigator, 'languages', { get: () => ['vi-VN', 'vi'] });
-    });
-  } else {
-    await page.setExtraHTTPHeaders({ 'Accept-Language': 'en-US,en;q=0.9' });
-    await page.emulateTimezone('America/New_York');
-    await page.evaluateOnNewDocument(() => {
-      Object.defineProperty(navigator, 'language', { get: () => 'en-US' });
-      Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
-    });
-  }
-
+  await page.evaluateOnNewDocument(() => {
+    Object.defineProperty(navigator, 'language', { get: () => 'vi-VN' });
+    Object.defineProperty(navigator, 'languages', { get: () => ['vi-VN', 'vi'] });
+  });
 
   console.log(chalk.cyanBright(`🌐 Visit #${visitNumber}: Opening Google...`));
 
   try {
-    const googleURL = GOOGLE_DOMAINS[Math.floor(Math.random() * GOOGLE_DOMAINS.length)];
-    await page.goto(googleURL, { waitUntil: 'networkidle2' });
+    await page.goto('https://www.google.com.vn', { waitUntil: 'networkidle2' });
     const searchSelector = 'textarea[name="q"], input[name="q"]';
     await page.waitForSelector(searchSelector, { timeout: 100 });
     await page.type(searchSelector, keyword, { delay: 100 });
@@ -401,37 +361,8 @@ async function runVisit(browser, visitNumber, keyword) {
   }
 }
 
-async function getProxyFromWWProxy() {
-  console.log(chalk.bold.yellow(`📡 [WWProxy] Requesting new proxy...`));
-  try {
-    await axios.get(`${WWPROXY_BASE}/available?key=${WWPROXY_API_KEY}`);
-    console.log(chalk.gray(`📨 [WWProxy] Requested new 1-minute proxy.`));
-  } catch (e) {
-    console.log(chalk.red(`⚠️ [WWProxy] Failed to request new proxy: ${e.message}`));
-  }
-
-  console.log(chalk.bold.yellow(`📡 [WWProxy] Fetching current proxy...`));
-  try {
-    const proxyRes = await axios.get(`${WWPROXY_BASE}/current?key=${WWPROXY_API_KEY}`);
-    const data = proxyRes.data?.data;
-    if (!data?.proxy) throw new Error('No proxy in response');
-
-    const [proxyHost, proxyPort] = data.proxy.split(':');
-    console.log(chalk.green(`🔐 [WWProxy] Proxy: ${chalk.bold(`${proxyHost}:${proxyPort}`)}`));
-
-    const geoOk = await fetchProxyGeoInfo(proxyHost);
-    if (!geoOk) {
-      console.log(chalk.red('[WWProxy] ❌ Proxy geo check failed, skipping visit.'));
-      return null;
-    }
-
-    return { proxyHost, proxyPort, proxyUsername: null, proxyPassword: null };
-  } catch (e) {
-    console.log(chalk.red(`❌ [WWProxy] Proxy fetch failed: ${e.message}`));
-    return null;
-  }
-}
-
+// Function to get a new proxy from Shoplike
+// This function requests a new proxy from the Shoplike API and fetches its details
 async function getProxyFromShoplike() {
   console.log(chalk.bold.yellow(`📡 [Shoplike] Requesting new proxy...`));
   try {
@@ -474,7 +405,8 @@ async function getProxyFromShoplike() {
   }
 }
 
-
+// Main function to run the pogosticking process
+// This function loops through the keywords and performs visits until all goals are met
 const main = async () => {
   let totalVisits = 0;
 
@@ -493,16 +425,9 @@ const main = async () => {
 
     console.log(chalk.inverse(`\n===== Starting Visit #${visitNumber} for keyword "${keyword}" =====`));
 
-    // 🔀 Random proxy provider
-    // const useWWProxy = Math.random() > 0.5;
-    // const providerName = useWWProxy ? 'WWProxy' : 'Shoplike';
-    const useWWProxy = 1;
-    const providerName = 'Shoplike';
-    console.log(chalk.bold.cyan(`🔀 Using proxy provider: ${providerName}`));
+    console.log(chalk.bold.cyan(`🔀 Using proxy provider: Shoplike`));
 
-    let proxyInfo = useWWProxy
-      ? await getProxyFromWWProxy()
-      : await getProxyFromShoplike();
+    let proxyInfo = await getProxyFromShoplike();
 
     if (!proxyInfo) {
       console.log(chalk.red(`❌ Skipping visit due to proxy error.`));
