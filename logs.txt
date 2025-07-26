@@ -7372,3 +7372,161 @@
 [96m🌐 Visit #2: Opening Google...[39m
 [31m🚧 CAPTCHA detected.[39m
 [33m🔐 Solving CAPTCHA (single attempt)...[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+https://proxy.shoplike.vn/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[31m⚠️ [Shoplike] Failed to order new proxy: Request failed with status code 404[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[31m❌ [Shoplike] Proxy fetch failed: Request failed with status code 404[39m
+[31m❌ Skipping visit due to proxy error.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+https://proxy.shoplike.vn/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+https://proxy.shoplike.vn/Api/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.224.252.144:44078[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone X landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+    Width:        812
+    Height:       375
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+https://proxy.shoplike.vn/Api/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.107.208.16:30015[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Galaxy S8
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    Width:        360
+    Height:       740
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m

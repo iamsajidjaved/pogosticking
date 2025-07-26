@@ -1,5 +1,5 @@
 {
-    "PROXY_API_BASE": "https://proxy.shoplike.vn/Api/getCurrentProxy",
+    "PROXY_API_BASE": "https://proxy.shoplike.vn/Api",
     "SHOPLIKE_ACCESS_TOKEN": "SHOPLIKE_ACCESS_TOKEN",
     "CAPTCHA_API_KEY": "CAPTCHA_API_KEY",
     "IP_GEO_API_BASE": "https://free.freeipapi.com/api/json/",

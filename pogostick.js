@@ -9,9 +9,12 @@ import chalk from 'chalk';
 const config = JSON.parse(fs.readFileSync('./config.json', 'utf-8'));
 
 const keywords = config.keywords;
+
 const PROXY_API_BASE = config.PROXY_API_BASE;
 const SHOPLIKE_ACCESS_TOKEN = config.SHOPLIKE_ACCESS_TOKEN;
-const PROXY_API = `${PROXY_API_BASE}?access_token=${SHOPLIKE_ACCESS_TOKEN}`;
+const CURRENT_PROXY_API = `${PROXY_API_BASE}/getCurrentProxy?access_token=${SHOPLIKE_ACCESS_TOKEN}`;
+const NEW_PROXY_API = `${PROXY_API_BASE}/getNewProxy?access_token=${SHOPLIKE_ACCESS_TOKEN}`;
+
 const CAPTCHA_API_KEY = config.CAPTCHA_API_KEY;
 const IP_GEO_API_BASE = config.IP_GEO_API_BASE;
 const INTERACTIVE_DOMAINS = config.INTERACTIVE_DOMAINS;
@@ -366,9 +369,10 @@ async function runVisit(browser, visitNumber, keyword) {
 // Function to get a new proxy from Shoplike
 // This function requests a new proxy from the Shoplike API and fetches its details
 async function getProxyFromShoplike() {
+  console.log(NEW_PROXY_API);
   console.log(chalk.bold.yellow(`📡 [Shoplike] Requesting new proxy...`));
   try {
-    await axios.get('https://proxy.shoplike.vn/Api/getNewProxy?access_token=251911d53fcc081fcbff56c222917c7c');
+    await axios.get(NEW_PROXY_API);
     console.log(chalk.gray('[Shoplike] 📨 Requested new 1-minute proxy.'));
   } catch (e) {
     console.log(chalk.red(`⚠️ [Shoplike] Failed to order new proxy: ${e.message}`));
@@ -376,7 +380,7 @@ async function getProxyFromShoplike() {
 
   console.log(chalk.bold.yellow(`📡 [Shoplike] Fetching proxy...`));
   try {
-    const proxyRes = await axios.get(PROXY_API);
+    const proxyRes = await axios.get(CURRENT_PROXY_API);
     const data = proxyRes.data?.data;
     if (!data?.proxy) throw new Error('No proxy found in response');
 
