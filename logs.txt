@@ -7166,3 +7166,155 @@
 [1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
 [32m🔐 [Shoplike] Proxy: [1m171.224.253.138:52892[22m[39m
 [33m🔓 No authentication required.[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.248.122.146:24770[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 2 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mobile Safari/537.36
+    Width:        731
+    Height:       411
+    Device Scale: 2.625
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #1: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud, .egMi0` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.103.45.137:5004[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Phú Lộc
+  Region:   Thừa Thiên Huế Province
+  Telecom:  Viettel Corporation
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPad landscape
+    User Agent:     Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1
+    Width:        1024
+    Height:       768
+    Device Scale: 2
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 0 links.[39m
+[35m🔗 Found 0 links.[39m
+[32m✅ Updated visits_completed: 2/10 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #3 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.107.111.24:30171[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 15 Pro Max landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+    Width:        814
+    Height:       380
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #3: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[32m✅ CAPTCHA solved.[39m
+[35m🔗 Found 9 links.[39m
+[35m🔗 Found 9 links.[39m
+[90m  ➤ Opening in new tab [1/9]: https://guestspostings.co.in/[39m
+[32m  🟢 Interactive domain matched: guestspostings.co.in[39m
+[36m🕹️ Interacting with guestspostings.co.in for 128s...[39m
+[90m    🔗 Navigating to: https://guestspostings.co.in/quan-he-doi-tac-8xbet-va-manchester-city-fc/[39m
+[31m    ⚠️ Navigation error: net::ERR_TIMED_OUT at https://guestspostings.co.in/quan-he-doi-tac-8xbet-va-manchester-city-fc/[39m
+[36m✅ Finished interaction. Visited 1 page(s).[39m
+[90m  ✖️ Finished interaction on: https://guestspostings.co.in/[39m
+[32m✅ Updated visits_completed: 3/10 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #4 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.245.98.144:45382[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 11 Pro Max landscape
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+    Width:        896
+    Height:       414
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #4: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
+[31m❌ 2Captcha error: Error: Execution context was destroyed[39m
+[31m❌ CAPTCHA solve failed.[39m
+[31m💥 Error in runVisit: Protocol error: Connection closed.[39m
+[31m❌ Visit failed for keyword "8xbet".[39m
+[7m[27m
+[7m===== Starting Visit #4 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.238.73.208:42239[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Pixel 2 landscape
+    User Agent:     Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mobile Safari/537.36
+    Width:        731
+    Height:       411
+    Device Scale: 2.625
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    Yes
+[96m🌐 Visit #4: Opening Google...[39m

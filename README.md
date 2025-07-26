@@ -1,90 +1,125 @@
 # Puppeteer Web Interaction Script
 
-This script uses Puppeteer to automate web interactions, specifically designed to simulate human-like browsing behavior on Google search results for a given keyword. It supports proxy usage, CAPTCHA solving, and interaction with specific domains.
+Automate human-like browsing on Google search results using Puppeteer, with support for proxies, CAPTCHA solving, device emulation, and detailed logging.
+
+---
 
 ## Features
-- **Google Search Automation**: Performs searches for the keyword `8xbet` on Google Vietnam (`google.com.vn`).
-- **Proxy Support**: Integrates with two proxy providers (WWProxy and Shoplike) for anonymized browsing.
-- **CAPTCHA Solving**: Uses the 2Captcha service to solve reCAPTCHAs when detected.
-- **Human-like Interaction**: Simulates scrolling and clicking internal links on target domains for 120–180 seconds.
-- **Device Emulation**: Emulates various mobile devices (e.g., iPhone, Galaxy) for realistic browsing.
+
+- **Google Search Automation**: Performs searches for configurable keywords on Google Vietnam (`google.com.vn`).
+- **Proxy Support**: Integrates with Shoplike proxy provider for anonymized browsing.
+- **CAPTCHA Solving**: Uses the 2Captcha service to solve reCAPTCHAs automatically.
+- **Human-like Interaction**: Simulates scrolling and clicking internal links on target domains for realistic dwell time.
+- **Device Emulation**: Emulates a wide range of mobile devices (iPhone, Galaxy, Pixel, iPad, etc.).
 - **Logging**: Logs all activities to both the console and a `logs.txt` file with colored output using `chalk`.
 - **Geo Information**: Fetches and logs geographical information about the proxy IP.
+- **Configurable**: All sensitive data and settings are managed via `config.json`.
+
+---
 
 ## Prerequisites
-- **Node.js**: Version 14 or higher.
-- **Dependencies**: Install required Node.js packages:
-  ```bash
-  npm install puppeteer-extra puppeteer-extra-plugin-recaptcha puppeteer-extra-plugin-stealth axios chalk
-  ```
 
-## Setup
-1. **Clone the Repository**:
+- **Node.js**: Version 14 or higher.
+- **npm**: Node.js package manager.
+
+---
+
+## Installation
+
+1. **Clone the Repository**
    ```bash
    git clone <repository-url>
    cd <repository-directory>
    ```
 
-2. **Install Dependencies**:
+2. **Install Dependencies**
    ```bash
-   npm install
+   npm install puppeteer-extra puppeteer-extra-plugin-recaptcha puppeteer-extra-plugin-stealth axios chalk
    ```
 
-3. **Configuration**:
-   - **Keyword**: The search keyword is set to `8xbet` in the script (`KEYWORD` constant).
-   - **Proxy Providers**:
-     - **WWProxy**: Requires an API key (`WWPROXY_API_KEY`).
-     - **Shoplike**: Requires an access token (`PROXY_API`).
-     - Update the `WWPROXY_API_KEY` and `PROXY_API` constants with your credentials.
-   - **CAPTCHA Solving**: Requires a 2Captcha API key (`CAPTCHA_API_KEY`). Update the constant with your key.
-   - **Interactive Domains**: The `INTERACTIVE_DOMAINS` array lists domains for extended interaction. Modify as needed.
+---
+
+## Configuration
+
+1. **Edit `config.json`**
+
+   Create or update a `config.json` file in the project root:
+
+   ```json
+   {
+     "PROXY_API": "https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=YOUR_SHOPLIKE_TOKEN",
+     "CAPTCHA_API_KEY": "YOUR_2CAPTCHA_API_KEY",
+     "IP_GEO_API_BASE": "https://free.freeipapi.com/api/json/",
+     "keywords": [
+       { "keyword": "8xbet", "visits_required": 10, "visits_completed": 0 }
+     ],
+     "INTERACTIVE_DOMAINS": [
+       "infinitelyloft.com", "gptservice.app", "doge30.com", "8xbet.promo",
+       "paducahteachersfcu.org", "honistaapk.me", "ownchat.me", "8xbet.hot",
+       "8xbetg.cc", "servicesdealer.us", "neodewa.org", "wallcovering.club",
+       "8xbetvn.ch", "8xbetd.xyz", "europauniversitypress.co.uk", "www.andygriffithshow.net", "guestspostings.co.in"
+     ]
+   }
+   ```
+
+   - **PROXY_API**: Shoplike proxy API endpoint with your access token.
+   - **CAPTCHA_API_KEY**: Your 2Captcha API key.
+   - **IP_GEO_API_BASE**: Base URL for IP geo lookup.
+   - **keywords**: List of keywords to search, with visit requirements.
+   - **INTERACTIVE_DOMAINS**: Domains for extended, human-like interaction.
+
+---
 
 ## Usage
-Run the script with an optional argument for the number of visits (default is 1):
+
+Run the script with Node.js:
+
 ```bash
-node pogostick.js [number_of_visits]
-```
-Example:
-```bash
-node pogostick.js 5
+node pogostick.js
 ```
 
-This will perform 2025-07-17 08:07:40 +0400 automated visits, each using a random proxy provider and emulating a random mobile device.
+- The script will loop through keywords and perform visits as configured in `config.json`.
+- All logs are saved to `logs.txt` and printed to the console.
 
-## Script Details
-- **Proxy Management**:
-  - Randomly selects between WWProxy and Shoplike for each visit.
-  - Fetches a new proxy and validates its geo-information before use.
-- **Browser Automation**:
-  - Launches a non-headless browser for visibility.
-  - Emulates a random mobile device from a predefined list.
-  - Sets Vietnamese language and timezone (`Asia/Ho_Chi_Minh`).
-- **Search and Interaction**:
-  - Navigates to `google.com.vn`, searches for the keyword, and handles CAPTCHAs.
-  - Extracts search result links and visits them.
-  - For domains in `INTERACTIVE_DOMAINS`, performs human-like scrolling and link navigation.
-- **Logging**:
-  - Outputs detailed logs to the console and `logs.txt`.
-  - Uses `chalk` for colored console output to distinguish different actions and errors.
+---
 
 ## File Structure
-- `pogostick.js`: Main script file containing the automation logic.
-- `logs.txt`: Generated log file for all console output.
-- `README.md`: This documentation file.
 
-## TODO
-- **Clicking on Google Ads**: Implement functionality to detect and interact with Google Ads in search results.
-- **Moving Configuration to config.json**: Migrate sensitive configurations (e.g., API keys, tokens) to a `config.json` file for better security and maintainability.
-- **Formatting and Simplifying the Code**: Refactor the codebase to improve readability, reduce complexity, and follow consistent formatting standards.
-- **Integrate multiple Google domains**: Support searching on multiple Google domains such as `google.com` and `google.com.vn`.
-- **Integrate multiple browser languages**: Support browsing with different language settings, including English and Vietnamese.
+- `pogostick.js` — Main automation script.
+- `config.json` — Configuration file (not included in repo by default; create your own).
+- `logs.txt` — Log file generated during script execution.
+- `README.md` — This documentation.
 
+---
 
 ## Notes
-- **Proxy Usage**: Ensure valid API keys for WWProxy or Shoplike. Without valid proxies, the script may fail.
-- **CAPTCHAល: Ensure the 2Captcha API key is valid and has sufficient balance.
-- **Navigation Issues**: Increase timeouts or check for updated selectors if Google’s DOM changes.
-- **Logs**: Check `logs.txt` for detailed error messages.
+
+- **Proxy Usage**: Ensure your Shoplike API token is valid and has available quota.
+- **CAPTCHA Solving**: Ensure your 2Captcha API key is valid and has sufficient balance.
+- **Google DOM Changes**: If Google updates its DOM, you may need to update selectors in the script.
+- **Persistence**: If you want to persist `visits_completed`, you must manually update `config.json` or implement a save routine.
+
+---
+
+## Security
+
+- **Never commit your `config.json` with real API keys or tokens to public repositories.**  
+  Add `config.json` to your `.gitignore` file.
+
+---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## TODO
+
+- [ ] Click on Google Ads in search results.
+- [ ] Support multiple Google domains (e.g., `google.com`, `google.com.vn`).
+- [ ] Support multiple browser languages.
+- [ ] Refactor and simplify codebase.
+- [ ] Add persistence for `visits_completed` in `config.json`.
+
+---
