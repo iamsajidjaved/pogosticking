@@ -101,19 +101,6 @@ node pogostick.js
 
 ---
 
-## Security
-
-- **Never commit your `config.json` with real API keys or tokens to public repositories.**  
-  Add `config.json` to your `.gitignore` file.
-
----
-
-## License
-
-MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## TODO
 
 - [🟡] Click on Google Ads in search results.
