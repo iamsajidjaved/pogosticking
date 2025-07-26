@@ -1,6 +1,6 @@
-# Puppeteer Web Interaction Script
+# 🕵️‍♂️ Puppeteer Pogosticking Behavior Simulation Scrip
 
-Automate human-like browsing on Google search results using Puppeteer, with support for proxies, CAPTCHA solving, device emulation, and detailed logging.
+Automate human-like browsing behavior on Google Search results using Puppeteer — simulating "pogosticking" for SEO experiments. The script mimics a real user who clicks multiple search results while trying to find a satisfying answer to a query.
 
 ---
 
