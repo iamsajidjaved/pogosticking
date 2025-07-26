@@ -52,13 +52,9 @@ Automate human-like browsing on Google search results using Puppeteer, with supp
      "CAPTCHA_API_KEY": "YOUR_2CAPTCHA_API_KEY",
      "IP_GEO_API_BASE": "https://free.freeipapi.com/api/json/",
      "keywords": [
-       { "keyword": "8xbet", "visits_required": 10, "visits_completed": 0 }
+       { "keyword": "Guest Post", "visits_required": 10, "visits_completed": 0 }
      ],
-     "INTERACTIVE_DOMAINS": [
-       "infinitelyloft.com", "gptservice.app", "doge30.com", "8xbet.promo",
-       "paducahteachersfcu.org", "honistaapk.me", "ownchat.me", "8xbet.hot",
-       "8xbetg.cc", "servicesdealer.us", "neodewa.org", "wallcovering.club",
-       "8xbetvn.ch", "8xbetd.xyz", "europauniversitypress.co.uk", "www.andygriffithshow.net", "guestspostings.co.in"
+     "INTERACTIVE_DOMAINS": ["guestspostings.co.in"
      ]
    }
    ```
