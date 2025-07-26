@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Puppeteer Pogosticking Behavior Simulation Scrip
+# 🕵️‍♂️ Puppeteer Pogosticking Behavior Simulation Script
 
 Automate human-like browsing behavior on Google Search results using Puppeteer — simulating "pogosticking" for SEO experiments. The script mimics a real user who clicks multiple search results while trying to find a satisfying answer to a query.
 
