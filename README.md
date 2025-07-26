@@ -47,7 +47,8 @@ Automate human-like browsing on Google search results using Puppeteer, with supp
 
    ```json
    {
-     "PROXY_API": "https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=YOUR_SHOPLIKE_TOKEN",
+     "PROXY_API_BASE": "https://proxy.shoplike.vn/Api/getCurrentProxy",
+     "SHOPLIKE_ACCESS_TOKEN": "YOUR_SHOPLIKE_TOKEN",
      "CAPTCHA_API_KEY": "YOUR_2CAPTCHA_API_KEY",
      "IP_GEO_API_BASE": "https://free.freeipapi.com/api/json/",
      "keywords": [
@@ -62,11 +63,14 @@ Automate human-like browsing on Google search results using Puppeteer, with supp
    }
    ```
 
-   - **PROXY_API**: Shoplike proxy API endpoint with your access token.
+   - **PROXY_API_BASE**: Shoplike proxy API base endpoint (without the access token).
+   - **SHOPLIKE_ACCESS_TOKEN**: Your Shoplike API access token.
    - **CAPTCHA_API_KEY**: Your 2Captcha API key.
    - **IP_GEO_API_BASE**: Base URL for IP geo lookup.
    - **keywords**: List of keywords to search, with visit requirements.
    - **INTERACTIVE_DOMAINS**: Domains for extended, human-like interaction.
+
+   The script will automatically combine `PROXY_API_BASE` and `SHOPLIKE_ACCESS_TOKEN` to form the full proxy API URL.
 
 ---
 
@@ -116,10 +120,10 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## TODO
 
-- [ ] Click on Google Ads in search results.
-- [ ] Support multiple Google domains (e.g., `google.com`, `google.com.vn`).
-- [ ] Support multiple browser languages.
-- [ ] Refactor and simplify codebase.
-- [ ] Add persistence for `visits_completed` in `config.json`.
+- [🟡] Click on Google Ads in search results.
+- [🟡] Support multiple Google domains (e.g., `google.com`, `google.com.vn`).
+- [🟡] Support multiple browser languages.
+- [✅] ~~Refactor and simplify codebase.~~
+- [✅] ~~Add persistence for `visits_completed` in `config.json`.~~
 
 ---

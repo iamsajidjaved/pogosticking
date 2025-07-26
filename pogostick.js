@@ -9,7 +9,9 @@ import chalk from 'chalk';
 const config = JSON.parse(fs.readFileSync('./config.json', 'utf-8'));
 
 const keywords = config.keywords;
-const PROXY_API = config.PROXY_API;
+const PROXY_API_BASE = config.PROXY_API_BASE;
+const SHOPLIKE_ACCESS_TOKEN = config.SHOPLIKE_ACCESS_TOKEN;
+const PROXY_API = `${PROXY_API_BASE}?access_token=${SHOPLIKE_ACCESS_TOKEN}`;
 const CAPTCHA_API_KEY = config.CAPTCHA_API_KEY;
 const IP_GEO_API_BASE = config.IP_GEO_API_BASE;
 const INTERACTIVE_DOMAINS = config.INTERACTIVE_DOMAINS;

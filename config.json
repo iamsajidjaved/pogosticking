@@ -1,5 +1,6 @@
 {
-    "PROXY_API": "https://proxy.shoplike.vn/Api/getCurrentProxy?access_token=251911d53fcc081fcbff56c222917c7c",
+    "PROXY_API_BASE": "https://proxy.shoplike.vn/Api/getCurrentProxy",
+    "SHOPLIKE_ACCESS_TOKEN": "251911d53fcc081fcbff56c222917c7c",
     "CAPTCHA_API_KEY": "792e588602955a039923cf4feeff93ad",
     "IP_GEO_API_BASE": "https://free.freeipapi.com/api/json/",
     "keywords": [

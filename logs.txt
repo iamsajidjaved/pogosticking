@@ -7318,3 +7318,57 @@
     Touch:        Yes
     Landscape:    Yes
 [96m🌐 Visit #4: Opening Google...[39m
+[7m[27m
+[7m===== Starting Visit #1 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m171.238.73.208:42239[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           iPhone 15 Plus
+    User Agent:     Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+    Width:        430
+    Height:       739
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #1: Opening Google...[39m
+[31m⚠️ Failed to extract SERP links: Waiting for selector `.MjjYud, .egMi0` failed: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.[39m
+[32m✅ Updated visits_completed: 1/10 for "8xbet"[39m
+[7m[27m
+[7m===== Starting Visit #2 for keyword "8xbet" =====[27m
+[1m[36m🔀 Using proxy provider: Shoplike[39m[22m
+[1m[33m📡 [Shoplike] Requesting new proxy...[39m[22m
+[90m[Shoplike] 📨 Requested new 1-minute proxy.[39m
+[1m[33m📡 [Shoplike] Fetching proxy...[39m[22m
+[32m🔐 [Shoplike] Proxy: [1m116.98.41.116:30018[22m[39m
+[33m🔓 No authentication required.[39m
+[94m🌍 Proxy Geo Info:[39m
+  Country:  Vietnam
+  City:     Hanoi
+  Region:   Hanoi
+  Telecom:  Viettel Group
+  Timezone: Asia/Ho_Chi_Minh
+  Language: vi
+[94m📱 Device Info:[39m
+    Name:           Moto G4
+    User Agent:     Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4812.0 Mobile Safari/537.36
+    Width:        360
+    Height:       640
+    Device Scale: 3
+    Mobile:       Yes
+    Touch:        Yes
+    Landscape:    No
+[96m🌐 Visit #2: Opening Google...[39m
+[31m🚧 CAPTCHA detected.[39m
+[33m🔐 Solving CAPTCHA (single attempt)...[39m
