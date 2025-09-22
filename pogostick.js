@@ -168,6 +168,7 @@ async function interactWithPage(page, domain) {
 async function runVisit(browser, visitNumber, keyword) {
 
   const page = await browser.newPage();
+  let successful = false;
 
   const devices = [
     'iPhone X',
@@ -341,7 +342,8 @@ async function runVisit(browser, visitNumber, keyword) {
           await interactWithPage(newPage, domain);
           console.log(chalk.gray(`  ✖️ Finished interaction on: ${link}`));
           await newPage.close();
-          break; // Exit loop if needed after interaction
+          successful = true; // Mark as successful only if interactive domain was visited
+          break; // Exit loop after interaction
         } else {
           console.log(chalk.yellow(`  🕒 Non-target site, closing after short wait.`));
           await delay(2000 + Math.floor(Math.random() * 1000));
@@ -358,7 +360,7 @@ async function runVisit(browser, visitNumber, keyword) {
 
 
     await page.close();
-    return true;
+    return successful;
   } catch (err) {
     console.log(chalk.red(`💥 Error in runVisit: ${err.message}`));
     try { await page.close(); } catch { }
@@ -462,7 +464,20 @@ const main = async () => {
       const success = await runVisit(browser, visitNumber, keyword);
       if (success) {
         keywords[keywordIndex].visits_completed++;
-        console.log(chalk.green(`✅ Updated visits_completed: ${keywords[keywordIndex].visits_completed}/${keywords[keywordIndex].visits_required} for "${keyword}"`));
+        console.log(
+          chalk.green(
+            `✅ Updated visits_completed: ${keywords[keywordIndex].visits_completed}/${keywords[keywordIndex].visits_required} for "${keyword}"`
+          )
+        );
+
+        // Show overall progress for all keywords
+        const totalCompleted = keywords.reduce((sum, k) => sum + k.visits_completed, 0);
+        const totalRequired = keywords.reduce((sum, k) => sum + k.visits_required, 0);
+        console.log(
+          chalk.blueBright(
+            `📊 Overall Progress: ${totalCompleted}/${totalRequired} visits completed`
+          )
+        );
       } else {
         console.log(chalk.red(`❌ Visit failed for keyword "${keyword}".`));
       }
